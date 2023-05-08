@@ -9,6 +9,8 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 - [Shop-plugin](https://server.shop.app/.well-known/ai-plugin.json)
 - [Freetv-plugin](https://www.freetv-app.com/.well-known/ai-plugin.json)
 - [Klarna-plugin](https://www.klarna.com/.well-known/ai-plugin.json)
+- [Datasette-plugin](https://datasette.io/.well-known/ai-plugin.json)
+- [Pricerunner](https://www.pricerunner.com/.well-known/ai-plugin.json)
 
 **How to use with Open Assitant**
 
