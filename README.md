@@ -9,6 +9,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 - [Biztok](https://biztoc.com/.well-known/ai-plugin.json)
 - [Calculator](https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json)
 - [Datasette](https://datasette.io/.well-known/ai-plugin.json)
+- [Dexa_lex_fridman](https://chatgpt-plugin-dexa-lex-fridman.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
 - [Freetv](https://www.freetv-app.com/.well-known/ai-plugin.json)
 - [GPTWeather](https://gptweather.skirano.repl.co/.well-known/ai-plugin.json)
 - [Greenyroad](https://www.greenyroad.com/.well-known/ai-plugin.json)
@@ -30,12 +31,20 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 - [Wikipedia](https://oasst-plugins.dumbserg.al:2083/plugins/wikipedia-plugin.json)
 - [WolframAlpha](https://www.wolframalpha.com/.well-known/ai-plugin.json)
 - [WolframAlphaCloud](https://www.wolframcloud.com/.well-known/ai-plugin.json)
+- [WOXO](https://woxo.tech/.well-known/ai-plugin.json)
 - [Zapier](https://zapier.com/.well-known/ai-plugin.json)
 
 **How to use with Open Assitant**
 
 On a new chat, add a new plugin and paste the url for the plugin you want to use.
 ![App Screenshot](https://cdn.jsdelivr.net/gh/targed/ChatGPT-Plugins@main/OA-Plugins.png)
+
+**Plugin Sites**
+
+- [Gptplugins](https://www.gptplugins.app/)
+- [Gptstore](https://gptstore.ai/)
+- [Plugin](https://plugin.so/)
+- [Wellknown](https://www.wellknown.ai/)
 
 **Contribution:**
 
