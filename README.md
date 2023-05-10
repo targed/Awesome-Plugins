@@ -89,7 +89,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
 ## How to use with Open Assistant
 
-On a new chat, add a new plugin and paste the url for the plugin you want to use.
+Paste the url for the plugin you want to use from the links above and click save.
 ![App Screenshot](https://cdn.jsdelivr.net/gh/targed/ChatGPT-Plugins@main/OA-Plugins.png)
 
 ## Plugin Sites
