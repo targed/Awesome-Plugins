@@ -20,6 +20,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
     APIs.guru is a collection of OpenAPI Specification (OAS) files. It is the largest collection of publicly available API interfaces.
 
     [Website](https://apis.guru/)
+
     [Plugin](https://apis.guru/.well-known/ai-plugin.json)
 
     </details>
