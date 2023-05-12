@@ -4,8 +4,6 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
 ## Here is a list of plugins for ChatGPT, Open Assistant, and various other models that support the plugin architecture
 
-## Table of Contents
-
 - General
 
   - [How to use with Open Assistant](#How-to-use-with-Open-Assistant)
@@ -98,9 +96,35 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Calculator](https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json)
-  - [Coupert](https://www.coupert.com/.well-known/ai-plugin.json)
-  - [Creaticode](https://openai.creaticode.com/.well-known/ai-plugin.json)
+  - <details>
+    <summary>Calculator</summary>
+
+    Calculator is a plugin that allows you to perform arithmetic calculations.
+
+    [Plugin](https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Coupert</summary>
+
+    Coupert is a browser extension that automatically finds and applies coupon codes at checkout with a single click.
+
+    [Website](https://www.coupert.com/)
+
+    [Plugin](https://www.coupert.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Creaticode</summary>
+
+    Creaticode is a platform that allows you to generate text using various language models.
+
+    [Plugin](https://openai.creaticode.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Crossmint](https://www.crossmint.com/.well-known/ai-plugin.json)
   - [DALL-E](https://api.openai.com/.well-known/ai-plugin.json)
   - [Datamuse](https://datamuse.com/.well-known/ai-plugin.json)
