@@ -14,12 +14,10 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
 - Plugins
 
-- Plugins
-
   - <details>
     <summary>APIs.guru</summary>
 
-    APIs.guru is a collection of OpenAPI Specification (OAS) files. It is the largest collection of publicly available API interfaces.
+    Plugin for accessing APIs.guru OpenAPI Directory.
 
     [Website](https://apis.guru/)
 
@@ -30,7 +28,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - <details>
     <summary>Appypie</summary>
 
-    Appypie is a no-code app development platform that allows users to create mobile apps without writing a single line of code.
+    Plugin for Appypie, a no-code app development platform that allows users to create mobile apps without writing a single line of code.
 
     [Website](https://appypie.com)
 
@@ -44,6 +42,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
     Asana is a project management tool that helps teams track their work and collaborate more effectively.
 
     [Website](https://asana.com/)
+
     [Plugin](https://app.asana.com/.well-known/ai-plugin.json)
 
     </details>
@@ -51,7 +50,7 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - <details>
     <summary>ASCIIArt</summary>
 
-    ASCIIArt is a plugin that generates ASCII art from text using the ChatGPT language model.
+    ASCIIArt is a plugin that generates ASCII art from text.
 
     [Plugin](https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
 
@@ -60,18 +59,19 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - <details>
     <summary>Babyagichatgpt</summary>
 
-    Babyagichatgpt is a plugin that generates text using the ChatGPT language model. It is optimized for generating responses that mimic the language of a baby.
+    Plugin for running autonomous agents to complete a final goal using BabyAGI.
 
     [Plugin](https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json)
 
     </details>
 
   - <details>
-    <summary>Biztok</summary>
+    <summary>Biztoc</summary>
 
-    Biztok is a social media platform that connects entrepreneurs and business professionals.
+    Plugin for querying BizToc for business news.
 
-    [Website](https://biztok.com/)
+    [Website](https://biztoc.com/)
+
     [Plugin](https://biztoc.com/.well-known/ai-plugin.json)
 
     </details>
@@ -79,9 +79,10 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - <details>
     <summary>Brainlox</summary>
 
-    Brainlox is a chatbot platform that uses the ChatGPT language model to generate natural language responses.
+    An AI-based Learn to Code platform is a personalized and interactive tool that utilizes machine learning algorithms to provide tailored guidance and real-time feedback to users learning a wide range of programming languages.
 
     [Website](https://brainlox.ai/)
+
     [Plugin](https://brainlox.ai/.well-known/ai-plugin.json)
 
     </details>
@@ -89,9 +90,10 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - <details>
     <summary>Bundlejs</summary>
 
-    Bundlejs is a JavaScript bundler that uses the ChatGPT language model to optimize code compression and minification.
+    BundleJS is an online tool that can bundle your projects, minify them, and show their gzip and brotli size, without having to install any npm packages, with typescript support, and it can treeshake and bundle multiple packages together.
 
     [Website](https://bundlejs.com/about)
+
     [Plugin](https://deno.bundlejs.com/.well-known/ai-plugin.json)
 
     </details>
