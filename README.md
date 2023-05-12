@@ -13,14 +13,18 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
   - [Contributing](#Contributing)
 
 - Plugins
+
   - <details>
-        <summary>APIs.guru</summary>
-        <br>
-        <p>APIs.guru is a collection of OpenAPI Specification (OAS) files. It is the largest collection of publicly available API interfaces.</p>
-        [Website](https://apis.guru/)
-        [Plugin](https://apis.guru/.well-known/ai-plugin.json)
+    <summary>APIs.guru</summary>
+
+    APIs.guru is a collection of OpenAPI Specification (OAS) files. It is the largest collection of publicly available API interfaces.
+
+    [Website](https://apis.guru/)
+    [Plugin](https://apis.guru/.well-known/ai-plugin.json)
+
     </details>
-  - [APIs.guru](https://apis.guru/.well-known/ai-plugin.json) [Website](https://apis.guru/)
+
+  - [APIs.guru](https://apis.guru/.well-known/ai-plugin.json) ([Website](https://apis.guru/))
   - [Appypie](https://www.appypie.com/.well-known/ai-plugin.json)
   - [Asana](https://app.asana.com/.well-known/ai-plugin.json)
   - [ASCIIArt](https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
