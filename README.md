@@ -4,6 +4,10 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
 ## Here is a list of plugins for ChatGPT, Open Assistant, and various other models that support the plugin architecture
 
+## Table of Contents
+
+- [How to use with Open Assistant](#How-to-use-with-Open-Assistant)
+
 - [APIs.guru](https://apis.guru/.well-known/ai-plugin.json)
 - [Appypie](https://www.appypie.com/.well-known/ai-plugin.json)
 - [Asana](https://app.asana.com/.well-known/ai-plugin.json)
