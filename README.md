@@ -14,6 +14,8 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
 - Plugins
 
+- Plugins
+
   - <details>
     <summary>APIs.guru</summary>
 
@@ -25,14 +27,75 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [APIs.guru](https://apis.guru/.well-known/ai-plugin.json) ([Website](https://apis.guru/))
-  - [Appypie](https://www.appypie.com/.well-known/ai-plugin.json)
-  - [Asana](https://app.asana.com/.well-known/ai-plugin.json)
-  - [ASCIIArt](https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
-  - [Babyagichatgpt](https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json)
-  - [Biztok](https://biztoc.com/.well-known/ai-plugin.json)
-  - [Brainlox](https://brainlox.ai/.well-known/ai-plugin.json)
-  - [Bundlejs](https://deno.bundlejs.com/.well-known/ai-plugin.json)
+  - <details>
+    <summary>Appypie</summary>
+
+    Appypie is a no-code app development platform that allows users to create mobile apps without writing a single line of code.
+
+    [Website](https://appypie.com)
+
+    [Plugin](https://www.appypie.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Asana</summary>
+
+    Asana is a project management tool that helps teams track their work and collaborate more effectively.
+
+    [Website](https://asana.com/)
+    [Plugin](https://app.asana.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>ASCIIArt</summary>
+
+    ASCIIArt is a plugin that generates ASCII art from text using the ChatGPT language model.
+
+    [Plugin](https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Babyagichatgpt</summary>
+
+    Babyagichatgpt is a plugin that generates text using the ChatGPT language model. It is optimized for generating responses that mimic the language of a baby.
+
+    [Plugin](https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Biztok</summary>
+
+    Biztok is a social media platform that connects entrepreneurs and business professionals.
+
+    [Website](https://biztok.com/)
+    [Plugin](https://biztoc.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Brainlox</summary>
+
+    Brainlox is a chatbot platform that uses the ChatGPT language model to generate natural language responses.
+
+    [Website](https://brainlox.ai/)
+    [Plugin](https://brainlox.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>Bundlejs</summary>
+
+    Bundlejs is a JavaScript bundler that uses the ChatGPT language model to optimize code compression and minification.
+
+    [Website](https://bundlejs.com/about)
+    [Plugin](https://deno.bundlejs.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Calculator](https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json)
   - [Coupert](https://www.coupert.com/.well-known/ai-plugin.json)
   - [Creaticode](https://openai.creaticode.com/.well-known/ai-plugin.json)
