@@ -183,15 +183,114 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Dev](https://dev.to/.well-known/ai-plugin.json)
-  - [Dexa_lex_fridman](https://chatgpt-plugin-dexa-lex-fridman.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
-  - [Docsbot](https://docsbot.ai/.well-known/ai-plugin.json)
-  - [Doordash](https://consumer-mobile-bff.doordash.com/v1/aichat/static/ai-plugin.json)
-  - [Freetv](https://www.freetv-app.com/.well-known/ai-plugin.json)
-  - [Getit](https://api.getit.ai/.well_known/ai-plugin.json)
-  - [GitHub **UNOFFICIAL**](https://gh-plugin.teammait.com/.well-known/ai-plugin.json)
-  - [Gochitchat](https://gochitchat.ai/.well-known/ai-plugin.json)
-  - [Gps-telecom](https://www.gps-telecom.com/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Dev</summary>
+
+    Dev is a community of software developers getting together to help one another out.
+
+    [Website](https://dev.to/)
+
+    [Plugin](https://dev.to/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Dexa Lex Fridman</summary>
+
+    Search across all of the Lex Fridman Podcast episodes – powered by Dexa AI.
+
+    [Website](https://lexfridman.com/)
+
+    [Plugin](https://chatgpt-plugin-dexa-lex-fridman.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Docsbot</summary>
+
+    Docsbot is a plugin that allows you to search for documentation using AI.
+
+    [Website](https://docsbot.ai/)
+
+    [Plugin](https://docsbot.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Doordash</summary>
+
+    Find a nearby DoorDash location using the DorrDash API.
+
+    [Website](https://www.doordash.com/)
+
+    [Plugin](https://consumer-mobile-bff.doordash.com/v1/aichat/static/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Freetv</summary>
+
+    FreeTV is a plugin for getting the latest news, including breaking and local news
+
+    [Website](https://www.freetv-app.com/)
+
+    [Plugin](https://www.freetv-app.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Getit</summary>
+
+    Getit is an open GPT Plugin Registry.
+
+    [Website](https://getit.ai/)
+
+    [Plugin](https://api.getit.ai/.well_known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>GitHub **UNOFFICIAL**</summary>
+
+    GitHub is a plugin that allows you to search for repositories.
+
+    [Website](https://github.com/)
+
+    [Plugin](https://gh-plugin.teammait.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Gochitchat</summary>
+
+    Gochitchat is an AI-powered chatbot that helps you work with text.
+
+    [Website](https://gochitchat.ai/)
+
+    [Plugin](https://gochitchat.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Gps-telecom</summary>
+
+    Get access to the very latest unified communication products, designed to integrate and futureproof your business.
+
+    [Website](https://www.gps-telecom.com/)
+
+    [Plugin](https://www.gps-telecom.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Gpt.collov](https://gpt.collov.com/.well-known/ai-plugin.json)
   - [GPTWeather](https://gptweather.skirano.repl.co/.well-known/ai-plugin.json)
   - [Greenyroad](https://www.greenyroad.com/.well-known/ai-plugin.json)
