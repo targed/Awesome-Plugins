@@ -291,13 +291,100 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Gpt.collov](https://gpt.collov.com/.well-known/ai-plugin.json)
-  - [GPTWeather](https://gptweather.skirano.repl.co/.well-known/ai-plugin.json)
-  - [Greenyroad](https://www.greenyroad.com/.well-known/ai-plugin.json)
-  - [Influencermarketing](https://influencermarketing.ai/.well-known/ai-plugin.json)
-  - [Infobot](https://infobot.ai/.well-known/ai-plugin.json)
-  - [Iowa_State_University_Environmental_Mesonet](https://mesonet.agron.iastate.edu/.well-known/ai-plugin.json)
-  - [Kalendar](https://kalendar.ai/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Gpt.collov</summary>
+
+    Interior Design AI Generator.
+
+    [Website](https://gpt.collov.com/)
+
+    [Plugin](https://gpt.collov.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>GPTWeather</summary>
+
+    GPTWeather is a plugin that allows you to get weather forecasts.
+
+    [Plugin](https://gptweather.skirano.repl.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Greenyroad</summary>
+
+    Greenyroad is a plugin that reads multiple URLs and their content for chat context.
+
+    [Website](https://www.greenyroad.com/)
+
+    [Plugin](https://www.greenyroad.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Influence Marketing</summary>
+
+    IMAI is a platform that helps brands find influencers to promote their products, manage campaigns, and track performance.
+
+    [Website](https://influencermarketing.ai/)
+
+    [Plugin](https://influencermarketing.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Infobot</summary>
+
+    Plugin for creating automatically updating wiki pages based on any ongoing topic or event.
+
+    [Website](https://infobot.ai/)
+
+    [Plugin](https://infobot.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Iowa_State_University_Environmental_Mesonet</summary>
+
+    Iowa State University Environmental Mesonet is a plugin that allows you to work with IEM data.
+
+    [Website](https://mesonet.agron.iastate.edu/)
+
+    [Plugin](https://mesonet.agron.iastate.edu/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Kalendar</summary>
+
+    KalendarAI sales agents generate revenue on autopilot by reaching your potential customers and booking meetings through live chat sessions from 200+ million companies globally.
+
+    [Website](https://kalendar.ai/)
+
+    [Plugin](https://kalendar.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Kittycad</summary>
+
+    Plugin for interacting with CAD files and models.
+
+    [Website](https://kittycad.io/)
+
+    [Plugin](https://api.kittycad.io/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Kittycad](https://api.kittycad.io/.well-known/ai-plugin.json)
   - [Klarna](https://www.klarna.com/.well-known/ai-plugin.json)
   - [Kyuda](https://www.kyuda.io/.well-known/ai-plugin.json)
@@ -356,6 +443,7 @@ Paste the url for the plugin you want to use from the links above and click save
 
 ## Plugin Sites
 
+- [Getit](https://www.getit.ai/gpt-plugins)
 - [Gptplugins](https://www.gptplugins.app/)
 - [Gptstore](https://gptstore.ai/)
 - [Plugin](https://plugin.so/)
@@ -364,5 +452,3 @@ Paste the url for the plugin you want to use from the links above and click save
 ## Contributing
 
 Please feel free to open a pull request to submit the plugins you find.
-
-## APIs.guru [Website](https://apis.guru/)
