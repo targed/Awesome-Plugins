@@ -385,13 +385,78 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Kittycad](https://api.kittycad.io/.well-known/ai-plugin.json)
-  - [Klarna](https://www.klarna.com/.well-known/ai-plugin.json)
-  - [Kyuda](https://www.kyuda.io/.well-known/ai-plugin.json)
-  - [Luma](https://lu.ma/.well-known/ai-plugin.json)
-  - [Medium](https://medium.com/.well-known/ai-plugin.json)
-  - [Messagebird](https://messagebird.com/.well-known/ai-plugin.json)
-  - [Milo](https://www.joinmilo.com/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Klarna</summary>
+
+    Search and compare prices from thousands of online shops.
+
+    [Website](https://www.klarna.com/)
+
+    [Plugin](https://www.klarna.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Kyuda</summary>
+
+    Interact with over 1,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and more.
+
+    [Website](https://www.kyuda.io/)
+
+    [Plugin](https://www.kyuda.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Luma</summary>
+
+    Keep up with and manage your Luma events.
+
+    [Website](https://lu.ma/)
+
+    [Plugin](https://lu.ma/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Medium</summary>
+
+    Medium is a plugin that allows you to search for articles.
+
+    [Website](https://medium.com/)
+
+    [Plugin](https://medium.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Messagebird</summary>
+
+    MessageBird is a plugin that allows you to send SMS messages.
+
+    [Website](https://www.messagebird.com/)
+
+    [Plugin](https://www.messagebird.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Milo</summary>
+
+    Curating the wisdom of village to give parents ideas that turn any 20 minutes from meh to magic.
+
+    [Website](https://www.joinmilo.com/)
+
+    [Plugin](https://www.joinmilo.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Mixerbox](https://www.mixerbox.com/.well-known/ai-plugin.json)
   - [Monitup](https://www.monitup.com/.well-known/ai-plugin.json)
   - [Mrkter](https://mrkter.io/.well-known/ai-plugin.json)
