@@ -457,12 +457,78 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Mixerbox](https://www.mixerbox.com/.well-known/ai-plugin.json)
-  - [Monitup](https://www.monitup.com/.well-known/ai-plugin.json)
-  - [Mrkter](https://mrkter.io/.well-known/ai-plugin.json)
-  - [Oneword](https://oneword.domains/.well-known/ai-plugin.json)
-  - [Pandia](https://pandia.pro/.well-known/ai-plugin.json/)
-  - [Plugin.so](https://plugin.so/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Mixerbox</summary>
+
+    MixerBox is a plugin that allows you to search for music.
+
+    [Website](https://www.mixerbox.com/)
+
+    [Plugin](https://www.mixerbox.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Monitup</summary>
+
+    Plugin that converts a natural language text into an SQL query.
+
+    [Website](https://www.monitup.com/)
+
+    [Plugin](https://www.monitup.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Mrkter</summary>
+
+    Plugin for managing finance and marketing operation.
+
+    [Website](https://mrkter.io/)
+
+    [Plugin](https://mrkter.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Oneword</summary>
+
+    Check the availability of a domain and compare prices across different registrars.
+
+    [Website](https://oneword.domains/)
+
+    [Plugin](https://oneword.domains/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Pandia</summary>
+
+    Receive the latest AI news and guides in French
+
+    [Website](https://pandia.pro/)
+
+    [Plugin](https://pandia.pro/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Plugin.so</summary>
+
+    Plugin.so is a plugin that allows you to search for plugins.
+
+    [Website](https://plugin.so/)
+
+    [Plugin](https://plugin.so/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Plugsugar](https://websearch.plugsugar.com/.well-known/ai-plugin.json)
   - [Polarr](https://polarr.co/.well-known/ai-plugin.json)
   - [Polygon](https://polygon.io/.well-known/ai-plugin.json)
