@@ -125,11 +125,64 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Crossmint](https://www.crossmint.com/.well-known/ai-plugin.json)
-  - [DALL-E](https://api.openai.com/.well-known/ai-plugin.json)
-  - [Datamuse](https://datamuse.com/.well-known/ai-plugin.json)
-  - [Datasette](https://datasette.io/.well-known/ai-plugin.json)
-  - [Decisionjournal](https://decisionjournalapp.com/.well-known/ai-plugin.json)
+  - <details>
+    <summary>Crossmint</summary>
+
+    Crossmint is a tool for NFT creators to accept credit card payments.
+
+    [Website](https://www.crossmint.com/)
+
+    [Plugin](https://www.crossmint.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+    <summary>DALL-E</summary>
+
+    DALL-E is a plugin that generates images from text.
+
+    [Website](https://openai.com/product/dall-e-2)
+
+    [Plugin](https://api.openai.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Datamuse</summary>
+
+    Datamuse is a collection of websites, mobile apps, and APIs designed to help people create and communicate more effectively.
+
+    [Website](https://datamuse.com/)
+
+    [Plugin](https://datamuse.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Datasette</summary>
+
+    Datasette is an open source multi-tool for exploring and publishing data
+
+    [Website](https://datasette.io/)
+
+    [Plugin](https://datasette.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Decisionjournal</summary>
+
+    Decision Journal is a decision making analytics platform. Helping you document, review, and analyze your decision making.
+
+    [Website](https://decisionjournalapp.com/)
+
+    [Plugin](https://decisionjournalapp.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Dev](https://dev.to/.well-known/ai-plugin.json)
   - [Dexa_lex_fridman](https://chatgpt-plugin-dexa-lex-fridman.transitive-bullshit.workers.dev/.well-known/ai-plugin.json)
   - [Docsbot](https://docsbot.ai/.well-known/ai-plugin.json)
