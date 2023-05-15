@@ -529,17 +529,138 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Plugsugar](https://websearch.plugsugar.com/.well-known/ai-plugin.json)
-  - [Polarr](https://polarr.co/.well-known/ai-plugin.json)
-  - [Polygon](https://polygon.io/.well-known/ai-plugin.json)
-  - [Portfoliopilot](https://portfoliopilot.com/.well-known/ai-plugin.json)
-  - [Pricerunner](https://www.pricerunner.com/.well-known/ai-plugin.json)
-  - [Quickchart](https://quickchart.io/.well-known/ai-plugin.json)
-  - [Ramp](https://ramp.com/.well-known/ai-plugin.json)
-  - [Redfin](https://www.redfin.com/.well-known/ai-plugin.json)
-  - [Remoteambition](https://remoteambition.com/.well-known/ai-plugin.json)
-  - [Rentable](https://www.rentable.co/.well-known/ai-plugin.json)
-  - [Savvytrader](https://savvytrader.com/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Plugsugar</summary>
+
+    Search for information from the internet
+
+    [Website](https://websearch.plugsugar.com/)
+
+    [Plugin](https://websearch.plugsugar.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Polarr</summary>
+
+    Polarr filters plugin for finding a filter that can be used to edit photos or videos.
+
+    [Website](https://polarr.co/)
+
+    [Plugin](https://polarr.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Polygon</summary>
+
+    Market data, news, and fundamentals for stocks, options, forex, and crypto from Polygon.io.
+
+    [Website](https://polygon.io/)
+
+    [Plugin](https://polygon.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Portfoliopilot</summary>
+
+    Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions.
+
+    [Website](https://portfoliopilot.com/)
+
+    [Plugin](https://portfoliopilot.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Pricerunner</summary>
+
+    PriceRunner is a plugin that allows you to search for products.
+
+    [Website](https://www.pricerunner.com/)
+
+    [Plugin](https://www.pricerunner.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Quickchart</summary>
+
+    QuickChart is a plugin that allows you to create charts and QR codes.
+
+    [Website](https://quickchart.io/)
+
+    [Plugin](https://quickchart.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Ramp</summary>
+
+    Plugin for managing a Ramp account. You can view transactions, reimbursements, cards, memos, receipts, and users.
+
+    [Website](https://ramp.com/)
+
+    [Plugin](https://ramp.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Redfin</summary>
+
+    Redfin is a plugin that allows you to search for homes.
+
+    [Website](https://www.redfin.com/)
+
+    [Plugin](https://www.redfin.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Remoteambition</summary>
+
+    Remoteambition is a plugin that allows you to search for remote jobs.
+
+    [Website](https://remoteambition.com/)
+
+    [Plugin](https://remoteambition.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Rentable</summary>
+
+    Rentable is a plugin that allows you to search for apartments.
+
+    [Website](https://www.rentable.co/)
+
+    [Plugin](https://www.rentable.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Savvytrader</summary>
+
+    Realtime stock, crypto and other investment data.
+
+    [Website](https://savvytrader.com/)
+
+    [Plugin](https://savvytrader.com/.well-known/ai-plugin.json)
+
+    </details>
+
   - [Scenex](https://scenex.jina.ai/.well-known/ai-plugin.json)
   - [SchoolDigger](https://www.schooldigger.com/.well-known/ai-plugin.json)
   - [Semgrep](https://semgrep.dev/.well-known/ai-plugin.json)
