@@ -1,4 +1,4 @@
-# ChatGPT-Plugins
+# GPT-Plugins
 
 GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for language models that are compatible with the GPT architecture.
 
@@ -886,7 +886,7 @@ GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugin
 
     [Website](https://www.wikipedia.org/)
 
-    [Plugin](https://www.wikipedia.org/.well-known/ai-plugin.json)
+    [Plugin](https://oasst-plugins.dumbserg.al:2083/plugins/wikipedia-plugin.json)
 
     </details>
 
