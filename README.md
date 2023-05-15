@@ -1,13 +1,14 @@
 # ChatGPT-Plugins
 
-ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
+GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for language models that are compatible with the GPT architecture.
 
-## Here is a list of plugins for ChatGPT, Open Assistant, and various other models that support the plugin architecture
+## Here is a list of plugins for ChatGPT, Open Assistant, and various other models that support the plugin architecture.
 
 - General
 
   - [How to use with Open Assistant](#How-to-use-with-Open-Assistant)
   - [Plugin Sites](#Plugin-Sites)
+  - [How to make a plugin](#How-to-make-a-plugin)
   - [Contributing](#Contributing)
 
 - Plugins
@@ -983,6 +984,10 @@ Paste the url for the plugin you want to use from the links above and click save
 - [Gptstore](https://gptstore.ai/)
 - [Plugin](https://plugin.so/)
 - [Wellknown](https://www.wellknown.ai/)
+
+## How to make a plugin
+
+- [OpenAI Documentation](https://github.com/openai/plugins-quickstart)
 
 ## Contributing
 
