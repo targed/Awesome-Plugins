@@ -974,7 +974,7 @@ GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugin
 
 ## How to use with Open Assistant
 
-Paste the url for the plugin you want to use from the links above and click save.
+Paste the url for the plugin you want to use from the links above and click save. The plugin will not always work on the first try, so try again if it doesn't work.
 ![App Screenshot](https://cdn.jsdelivr.net/gh/targed/GPT-Plugins@main/Media/OA-Plugins.png)
 
 ## Plugin Sites
