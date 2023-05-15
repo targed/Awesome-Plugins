@@ -661,32 +661,315 @@ ChatGPT-Plugins is a GitHub repository that serves as a comprehensive list of pl
 
     </details>
 
-  - [Scenex](https://scenex.jina.ai/.well-known/ai-plugin.json)
-  - [SchoolDigger](https://www.schooldigger.com/.well-known/ai-plugin.json)
-  - [Semgrep](https://semgrep.dev/.well-known/ai-plugin.json)
-  - [Shop](https://server.shop.app/.well-known/ai-plugin.json)
-  - [Slack](https://slack.com/.well-known/ai-plugin.json)
-  - [Tasty](https://api.tasty.co/.well-known/ai-plugin.json)
-  - [Techspecs](https://preview.techspecs.io/.well-known/ai-plugin.json)
-  - [Telnyx](https://telnyx.com/.well-known/ai-plugin.json)
-  - [Textbelt](https://textbelt.com/.well-known/ai-plugin.json)
-  - [Theansible](https://www.theansible.ai/.well-known/ai-plugin.json)
-  - [Tilnote](https://tilnote.io/.well-known/ai-plugin.json)
-  - [Transvribe](https://www.transvribe.com/.well-known/ai-plugin.json)
-  - [Trip](https://www.trip.com/.well-known/ai-plugin.json)
-  - [Triplewhale](https://api.triplewhale.com/.well-known/ai-plugin.json)
-  - [Twtdata](https://www.twtdata.com/.well-known/ai-plugin.json)
-  - [Urlbox](https://www.urlbox.io/.well-known/ai-plugin.json)
-  - [Valispace](https://www.valispace.com/.well-known/ai-plugin.json)
-  - [Wikiocity](https://api.wikiocity.com/.well-known/ai-plugin.json)
-  - [Wikipedia](https://oasst-plugins.dumbserg.al:2083/plugins/wikipedia-plugin.json)
-  - [WolframAlpha](https://www.wolframalpha.com/.well-known/ai-plugin.json)
-  - [WolframAlphaCloud](https://www.wolframcloud.com/.well-known/ai-plugin.json)
-  - [Wordpress](https://public-api.wordpress.com/.well-known/ai-plugin.json)
-  - [WOXO](https://woxo.tech/.well-known/ai-plugin.json)
-  - [Yabble](https://yabblezone.net/.well-known/ai-plugin.json)
-  - [Yelp](https://api.yelp.com/.well-known/ai-plugin.json)
-  - [Zapier](https://zapier.com/.well-known/ai-plugin.json)
+  - <details>
+
+    <summary>Scenex</summary>
+
+    Plugin for explaining image. You can send an image URL or base64 encoded image and get an explanation of the image.
+
+    [Website](https://scenex.jina.ai/)
+
+    [Plugin](https://scenex.jina.ai/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>SchoolDigger</summary>
+
+    Get detailed data on over 120,000 K-12 schools and 18,500 districts in the United States.
+
+    [Website](https://www.schooldigger.com/)
+
+    [Plugin](https://www.schooldigger.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Semgrep</summary>
+
+    Semgrep is a plugin that allows you to search for security vulnerabilities.
+
+    [Website](https://semgrep.dev/)
+
+    [Plugin](https://semgrep.dev/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Shop</summary>
+
+    Shop is a plugin that allows you to search for products.
+
+    [Website](https://shop.app/)
+
+    [Plugin](https://shop.app/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Slack</summary>
+
+    Plugin for querying Slack.
+
+    [Website](https://slack.com/)
+
+    [Plugin](https://slack.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Tasty</summary>
+
+    Tasty is a plugin that allows you to search for recipes.
+
+    [Website](https://tasty.co/)
+
+    [Plugin](https://tasty.co/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Techspecs</summary>
+
+    Techspecs is a plugin that allows you to search for tech specs.
+
+    [Website](https://techspecs.io/)
+
+    [Plugin](https://techspecs.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Telnyx</summary>
+
+    Send and receive text messages, look up information about phone numbers, make and receive phone calls, store and retrieve files, all using the Telnyx API.
+
+    [Website](https://telnyx.com/)
+
+    [Plugin](https://telnyx.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Textbelt</summary>
+
+    Textbelt is a plugin that allows you to send SMS messages.
+
+    [Website](https://textbelt.com/)
+
+    [Plugin](https://textbelt.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Theansible</summary>
+
+    Theansible is a plugin that allows you to search for Ansible modules.
+
+    [Website](https://www.theansible.com/)
+
+    [Plugin](https://www.theansible.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Tilnote</summary>
+
+    Plugin for managing a personal notes. You can add, view your notes.
+
+    [Website](https://tilnote.io/)
+
+    [Plugin](https://tilnote.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Transvribe</summary>
+
+    Plugin that answers questions based on content in a YouTube video.
+
+    [Website](https://www.transvribe.com/)
+
+    [Plugin](https://www.transvribe.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Trip</summary>
+
+    Plugin for users to effortlessly get customized travel product recommendation and itinerary planning including hotels and flights.
+
+    [Website](https://www.trip.com/)
+
+    [Plugin](https://www.trip.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Triplewhale</summary>
+
+    Triplewhale is a plugin that allows you to search for movies.
+
+    [Website](https://www.triplewhale.com/)
+
+    [Plugin](https://www.triplewhale.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Twtdata</summary>
+
+    Access a wealth of information about any Twitter account, including their activity, followers, and more.
+
+    [Website](https://www.twtdata.com/)
+
+    [Plugin](https://www.twtdata.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Urlbox</summary>
+
+    Urlbox is a plugin that allows you to take screenshots of websites.
+
+    [Website](https://urlbox.io/)
+
+    [Plugin](https://urlbox.io/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Valispace</summary>
+
+    Valispace is a plugin that allows you to search for engineering data.
+
+    [Website](https://www.valispace.com/)
+
+    [Plugin](https://www.valispace.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Wikiocity</summary>
+
+    Wikiocity is a plugin that allows you to search for local businesses.
+
+    [Website](https://www.wikiocity.com/)
+
+    [Plugin](https://www.wikiocity.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Wikipedia</summary>
+
+    Wikipedia is a plugin that allows you to search for Wikipedia articles.
+
+    [Website](https://www.wikipedia.org/)
+
+    [Plugin](https://www.wikipedia.org/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>WolframAlpha</summary>
+
+    Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.
+
+    [Website](https://www.wolframalpha.com/)
+
+    [Plugin](https://www.wolframalpha.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>WolframAlphaCloud</summary>
+
+    Dynamic computation and curated data from Wolfram Alpha.
+
+    [Website](https://www.wolframcloud.com/)
+
+    [Plugin](https://www.wolframcloud.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Wordpress</summary>
+
+    Wordpress is a plugin that allows you to search for Wordpress articles.
+
+    [Website](https://wordpress.com/)
+
+    [Plugin](https://wordpress.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Woxo</summary>
+
+    Plugin for create video from prompt
+
+    [Website](https://woxo.tech/)
+
+    [Plugin](https://woxo.tech/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Yabble</summary>
+
+    Your ultimate AI research assistant; create surveys, specify audiences, collect data & analyze.
+
+    [Website](https://yabblezone.net/)
+
+    [Plugin](https://yabblezone.net/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Yelp</summary>
+
+    Yelp is a plugin that allows you to search for local businesses.
+
+    [Website](https://www.yelp.com/)
+
+    [Plugin](https://www.yelp.com/.well-known/ai-plugin.json)
+
+    </details>
+
+  - <details>
+
+    <summary>Zapier</summary>
+
+    Zapier is a plugin that allows you to connect your apps and automate workflows.
+
+    [Website](https://zapier.com/)
+
+    [Plugin](https://zapier.com/.well-known/ai-plugin.json)
 
 ## How to use with Open Assistant
 
