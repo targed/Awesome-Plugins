@@ -987,7 +987,8 @@ Paste the url for the plugin you want to use from the links above and click save
 
 ## How to make a plugin
 
-- [OpenAI Documentation](https://github.com/openai/plugins-quickstart)
+- [OpenAI GitHub](https://github.com/openai/plugins-quickstart)
+- [OpenAI Documentation](https://platform.openai.com/docs/plugins/introduction)
 
 ## Contributing
 
