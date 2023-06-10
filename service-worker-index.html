@@ -1,0 +1,18 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1" name=viewport> <meta content=#333333 name=theme-color> <base href=/uptest/ > <link href=manifest.json rel=manifest crossorigin=use-credentials> <script>__SAPPER__={baseUrl:"/uptest",preloaded:[void 0]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/uptest/service-worker.js');(function(){try{eval("async function x(){}");var main="/uptest/client/client.b8450f26.js"}catch(e){main="/uptest/client/legacy/client.498b77a2.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/uptest/client/shimport@2.0.5.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> <link href=client/client-31a52aa5.css rel=stylesheet><link href=client/createOctokit-a85f76c7.css rel=stylesheet><link href=client/index-34afeb8b.css rel=stylesheet> <link href=https://targed.github.io/uptest/themes/dark.css rel=stylesheet><link href=https://targed.github.io/uptest/global.css rel=stylesheet><link href=https://raw.githubusercontent.com/upptime/upptime/master/assets/upptime-icon.svg rel=icon type=image/svg><link href=/logo-192.png rel=icon type=image/png> <link href=/uptest/client/client.b8450f26.js rel=modulepreload as=script crossorigin=use-credentials><link href=/uptest/client/client-31a52aa5.css rel=preload as=style><link href=/uptest/client/index.c6a432cc.js rel=modulepreload as=script crossorigin=use-credentials><link href=/uptest/client/createOctokit.d5a0714e.js rel=modulepreload as=script crossorigin=use-credentials><link href=/uptest/client/inject_styles.803b7e80.js rel=modulepreload as=script crossorigin=use-credentials><link href=/uptest/client/createOctokit-a85f76c7.css rel=preload as=style><link href=/uptest/client/index-34afeb8b.css rel=preload as=style></head> <body> <div id=sapper> <nav class=svelte-a08hsz><div class="svelte-a08hsz container"> <ul class=svelte-a08hsz><li><a href=/uptest class=svelte-a08hsz target=_self>Status</a> <li><a href=https://github.com/targed/uptest class=svelte-a08hsz target=_self>GitHub</a> <li><a href=https://github.com/targed/uptest/blob/master/PLUGIN-INFORMATION.md class=svelte-a08hsz target=_self>Plugin Information</a> </li> </ul></div> </nav> <main class=container></main> <footer class=svelte-jbr799><p>This page is <a href=https://github.com/targed/uptest>open source</a>, powered by <a href=https://upptime.js.org>Upptime</a></p> </footer></div> <script> try {
+        if (typeof window !== "undefined" && window.navigator && navigator.serviceWorker) {
+          navigator.serviceWorker.getRegistrations().then(function (registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          });
+        }
+        if (typeof window !== "undefined" && "caches" in window) {
+          caches.keys().then(function (keyList) {
+            return Promise.all(
+              keyList.map(function (key) {
+                return caches.delete(key);
+              })
+            );
+          });
+        }
+      } catch (error) {} </script> 
