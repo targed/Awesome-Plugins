@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "down",
-    "uptime": "97.04%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "97.04%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "status": "up",
+    "uptime": "95.81%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "95.81%",
+    "time": 83,
+    "timeDay": 83,
+    "timeWeek": 83,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {
-      "2023-06-10": 41
+      "2023-06-10": 60
     }
   },
   {
