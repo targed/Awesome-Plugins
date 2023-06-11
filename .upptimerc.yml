@@ -141,8 +141,8 @@ sites:
     url: https://www.transvribe.com/.well-known/ai-plugin.json
   - name: Trip
     url: https://www.trip.com/.well-known/ai-plugin.json
-  - name: Triplewhale
-    url: https://www.triplewhale.com/.well-known/ai-plugin.json
+  #- name: Triplewhale
+  #  url: https://www.triplewhale.com/.well-known/ai-plugin.json
   - name: Twtdata
     url: https://www.twtdata.com/.well-known/ai-plugin.json
   - name: Urlbox
@@ -157,14 +157,14 @@ sites:
     url: https://www.wolframalpha.com/.well-known/ai-plugin.json
   - name: WolframAlphaCloud
     url: https://www.wolframcloud.com/.well-known/ai-plugin.json
-  - name: Wordpress
-    url: https://wordpress.com/.well-known/ai-plugin.json
+  #- name: Wordpress
+  #  url: https://wordpress.com/.well-known/ai-plugin.json
   - name: Woxo
     url: https://woxo.tech/.well-known/ai-plugin.json
   - name: Yabble
     url: https://yabblezone.net/.well-known/ai-plugin.json
-  - name: Yelp
-    url: https://www.yelp.com/.well-known/ai-plugin.json
+  #- name: Yelp
+  #  url: https://www.yelp.com/.well-known/ai-plugin.json
   - name: Zapier
     url: https://zapier.com/.well-known/ai-plugin.json
 
