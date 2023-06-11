@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "down",
-    "uptime": "61.05%",
-    "uptimeDay": "39.75%",
-    "uptimeWeek": "61.05%",
-    "uptimeMonth": "61.05%",
-    "uptimeYear": "61.05%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "status": "up",
+    "uptime": "60.75%",
+    "uptimeDay": "38.99%",
+    "uptimeWeek": "60.75%",
+    "uptimeMonth": "60.75%",
+    "uptimeYear": "60.75%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-06-11": 666,
+      "2023-06-11": 677,
       "2023-06-10": 201
     }
   },
@@ -1261,7 +1261,7 @@
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2023-06-11": 542
+      "2023-06-11": 553
     }
   },
   {
@@ -1407,7 +1407,7 @@
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-06-11": 542
+      "2023-06-11": 553
     }
   },
   {
@@ -1463,7 +1463,7 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-06-11": 542
+      "2023-06-11": 553
     }
   },
   {
