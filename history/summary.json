@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "up",
-    "uptime": "80.62%",
-    "uptimeDay": "77.30%",
-    "uptimeWeek": "80.62%",
-    "uptimeMonth": "80.62%",
-    "uptimeYear": "80.62%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "status": "down",
+    "uptime": "77.64%",
+    "uptimeDay": "72.80%",
+    "uptimeWeek": "77.64%",
+    "uptimeMonth": "77.64%",
+    "uptimeYear": "77.64%",
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-06-11": 125,
+      "2023-06-11": 190,
       "2023-06-10": 201
     }
   },
@@ -1250,18 +1250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.triplewhale.com.ico",
     "slug": "triplewhale",
     "status": "down",
-    "uptime": "2.93%",
-    "uptimeDay": "2.93%",
-    "uptimeWeek": "2.93%",
-    "uptimeMonth": "2.93%",
-    "uptimeYear": "2.93%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 99,
     "timeDay": 99,
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2023-06-11": 1
+      "2023-06-11": 66
     }
   },
   {
@@ -1396,18 +1396,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress.com.ico",
     "slug": "wordpress",
     "status": "down",
-    "uptime": "2.31%",
-    "uptimeDay": "2.31%",
-    "uptimeWeek": "2.31%",
-    "uptimeMonth": "2.31%",
-    "uptimeYear": "2.31%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 159,
     "timeDay": 159,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-06-11": 1
+      "2023-06-11": 66
     }
   },
   {
@@ -1452,18 +1452,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yelp.com.ico",
     "slug": "yelp",
     "status": "down",
-    "uptime": "2.16%",
-    "uptimeDay": "2.16%",
-    "uptimeWeek": "2.16%",
-    "uptimeMonth": "2.16%",
-    "uptimeYear": "2.16%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 93,
     "timeDay": 93,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-06-11": 1
+      "2023-06-11": 66
     }
   },
   {
