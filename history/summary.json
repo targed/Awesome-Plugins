@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "up",
-    "uptime": "76.69%",
-    "uptimeDay": "71.30%",
-    "uptimeWeek": "76.69%",
-    "uptimeMonth": "76.69%",
-    "uptimeYear": "76.69%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "status": "down",
+    "uptime": "75.94%",
+    "uptimeDay": "70.09%",
+    "uptimeWeek": "75.94%",
+    "uptimeMonth": "75.94%",
+    "uptimeYear": "75.94%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-06-11": 212,
+      "2023-06-11": 229,
       "2023-06-10": 201
     }
   },
@@ -1250,18 +1250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.triplewhale.com.ico",
     "slug": "triplewhale",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 99,
     "timeDay": 99,
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2023-06-11": 88
+      "2023-06-11": 105
     }
   },
   {
@@ -1407,7 +1407,7 @@
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-06-11": 88
+      "2023-06-11": 105
     }
   },
   {
@@ -1463,7 +1463,7 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-06-11": 88
+      "2023-06-11": 105
     }
   },
   {
