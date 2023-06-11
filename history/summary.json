@@ -653,18 +653,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
     "status": "up",
-    "uptime": "89.00%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "89.00%",
-    "uptimeMonth": "89.00%",
-    "uptimeYear": "89.00%",
+    "uptime": "84.72%",
+    "uptimeDay": "82.97%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "84.72%",
+    "uptimeYear": "84.72%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2023-06-10": 168
+      "2023-06-11": 44,
+      "2023-06-10": 201
     }
   },
   {
