@@ -113,6 +113,8 @@ sites:
     url: https://remoteambition.com/.well-known/ai-plugin.json
   - name: Rentable
     url: https://www.rentable.co/.well-known/ai-plugin.json
+  - name: Rescuetime
+    url: https://rescuetime.com/.well-known/ai-plugin.json
   - name: Savvytrader
     url: https://savvytrader.com/.well-known/ai-plugin.json
   - name: Scenex
