@@ -151,6 +151,8 @@ sites:
     url: https://urlbox.io/.well-known/ai-plugin.json
   - name: Valispace
     url: https://www.valispace.com/.well-known/ai-plugin.json
+  - name: Vbout
+    url: https://vbout.com/.well-known/ai-plugin.json
   - name: Wikiocity
     url: https://www.wikiocity.com/.well-known/ai-plugin.json
   - name: Wikipedia
