@@ -653,18 +653,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
     "status": "down",
-    "uptime": "38.48%",
+    "uptime": "38.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.48%",
-    "uptimeMonth": "38.48%",
-    "uptimeYear": "38.48%",
+    "uptimeWeek": "38.44%",
+    "uptimeMonth": "38.44%",
+    "uptimeYear": "38.44%",
     "time": 89,
-    "timeDay": 85,
+    "timeDay": 84,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-06-12": 533,
+      "2023-06-12": 537,
       "2023-06-11": 1440,
       "2023-06-10": 201
     }
@@ -994,6 +994,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Rescuetime",
+    "url": "https://rescuetime.com/.well-known/ai-plugin.json",
+    "icon": "https://icons.duckduckgo.com/ip3/rescuetime.com.ico",
+    "slug": "rescuetime",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Savvytrader",
     "url": "https://savvytrader.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/savvytrader.com.ico",
@@ -1280,7 +1298,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-06-12": 533,
+      "2023-06-12": 537,
       "2023-06-11": 1315
     }
   },
@@ -1445,7 +1463,7 @@
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-06-12": 533,
+      "2023-06-12": 537,
       "2023-06-11": 1315
     }
   },
@@ -1502,7 +1520,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-06-12": 533,
+      "2023-06-12": 537,
       "2023-06-11": 1315
     }
   },
