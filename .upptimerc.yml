@@ -125,6 +125,8 @@ sites:
     url: https://shop.app/.well-known/ai-plugin.json
   - name: Slack
     url: https://slack.com/.well-known/ai-plugin.json
+  - name: Talkface
+    url: https://talkface.ai/.well-known/ai-plugin.json
   - name: Tasty
     url: https://tasty.co/.well-known/ai-plugin.json
   - name: Techspecs
