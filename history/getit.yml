@@ -1,7 +1,7 @@
 url: https://api.getit.ai/.well_known/ai-plugin.json
-status: down
-code: 503
-responseTime: 1356
-lastUpdated: 2023-06-13T20:40:21.998Z
+status: up
+code: 200
+responseTime: 453
+lastUpdated: 2023-06-13T20:49:25.134Z
 startTime: Fri Jun 09 2023 20:42:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
