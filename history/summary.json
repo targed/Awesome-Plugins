@@ -184,18 +184,20 @@
     "url": "https://openai.creaticode.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/openai.creaticode.com.ico",
     "slug": "creaticode",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 1405,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 697,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 651,
+    "timeDay": 998,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2023-06-13": 1
+    }
   },
   {
     "name": "Crossmint",
@@ -653,18 +655,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
     "status": "up",
-    "uptime": "24.46%",
+    "uptime": "24.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.46%",
-    "uptimeMonth": "24.46%",
-    "uptimeYear": "24.46%",
+    "uptimeWeek": "24.32%",
+    "uptimeMonth": "24.32%",
+    "uptimeYear": "24.32%",
     "time": 95,
     "timeDay": 98,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-06-13": 1119,
+      "2023-06-13": 1151,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 201
@@ -819,18 +821,20 @@
     "url": "https://websearch.plugsugar.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/websearch.plugsugar.com.ico",
     "slug": "plugsugar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 734,
-    "timeWeek": 618,
-    "timeMonth": 618,
-    "timeYear": 618,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1409,
+    "timeDay": 3596,
+    "timeWeek": 1409,
+    "timeMonth": 1409,
+    "timeYear": 1409,
+    "dailyMinutesDown": {
+      "2023-06-13": 1
+    }
   },
   {
     "name": "Polarr",
@@ -874,18 +878,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfoliopilot.com.ico",
     "slug": "portfoliopilot",
     "status": "up",
-    "uptime": "89.02%",
-    "uptimeDay": "57.60%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "89.02%",
-    "uptimeYear": "89.02%",
+    "uptime": "88.51%",
+    "uptimeDay": "55.37%",
+    "uptimeWeek": "88.51%",
+    "uptimeMonth": "88.51%",
+    "uptimeYear": "88.51%",
     "time": 251,
     "timeDay": 261,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-06-13": 611
+      "2023-06-13": 643
     }
   },
   {
@@ -948,18 +952,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redfin.com.ico",
     "slug": "redfin",
     "status": "up",
-    "uptime": "86.21%",
-    "uptimeDay": "46.77%",
-    "uptimeWeek": "86.21%",
-    "uptimeMonth": "86.21%",
-    "uptimeYear": "86.21%",
+    "uptime": "85.72%",
+    "uptimeDay": "44.54%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "85.72%",
+    "uptimeYear": "85.72%",
     "time": 365,
     "timeDay": 376,
     "timeWeek": 365,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-06-13": 767
+      "2023-06-13": 799
     }
   },
   {
@@ -1303,7 +1307,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-13": 1120,
+      "2023-06-13": 1152,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1469,7 +1473,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-06-13": 1120,
+      "2023-06-13": 1152,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1527,7 +1531,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-06-13": 1120,
+      "2023-06-13": 1152,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
