@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "down",
-    "uptime": "25.01%",
+    "status": "up",
+    "uptime": "24.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.01%",
-    "uptimeMonth": "25.01%",
-    "uptimeYear": "25.01%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "uptimeWeek": "24.97%",
+    "uptimeMonth": "24.97%",
+    "uptimeYear": "24.97%",
+    "time": 93,
+    "timeDay": 94,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-06-13": 996,
+      "2023-06-13": 1005,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 201
@@ -874,18 +874,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfoliopilot.com.ico",
     "slug": "portfoliopilot",
     "status": "up",
-    "uptime": "91.04%",
-    "uptimeDay": "66.17%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "91.04%",
+    "uptime": "90.88%",
+    "uptimeDay": "65.51%",
+    "uptimeWeek": "90.88%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "90.88%",
     "time": 251,
     "timeDay": 261,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-06-13": 487
+      "2023-06-13": 497
     }
   },
   {
@@ -948,18 +948,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redfin.com.ico",
     "slug": "redfin",
     "status": "up",
-    "uptime": "88.17%",
-    "uptimeDay": "55.34%",
-    "uptimeWeek": "88.17%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "88.17%",
+    "uptime": "88.02%",
+    "uptimeDay": "54.68%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "88.02%",
     "time": 365,
     "timeDay": 376,
     "timeWeek": 365,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-06-13": 643
+      "2023-06-13": 653
     }
   },
   {
@@ -1303,7 +1303,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-13": 996,
+      "2023-06-13": 1006,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1469,7 +1469,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-06-13": 996,
+      "2023-06-13": 1006,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1527,7 +1527,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-06-13": 996,
+      "2023-06-13": 1006,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
