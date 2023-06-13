@@ -1,7 +1,7 @@
 url: https://openai.creaticode.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 2613
-lastUpdated: 2023-06-13T01:05:46.441Z
+status: down
+code: 500
+responseTime: 185
+lastUpdated: 2023-06-13T19:10:01.320Z
 startTime: Fri Jun 09 2023 20:42:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
