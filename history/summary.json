@@ -185,18 +185,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openai.creaticode.com.ico",
     "slug": "creaticode",
     "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptime": "98.42%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 792,
     "timeDay": 1335,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-06-13": 82
+      "2023-06-13": 91
     }
   },
   {
@@ -384,18 +384,20 @@
     "url": "https://api.getit.ai/.well_known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/api.getit.ai.ico",
     "slug": "getit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 332,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 475,
+    "timeDay": 673,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "GitHub **UNOFFICIAL**",
@@ -475,18 +477,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gptweather.skirano.repl.co.ico",
     "slug": "gpt-weather",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 415,
     "timeDay": 298,
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-06-13": 10
+      "2023-06-13": 18
     }
   },
   {
@@ -657,18 +659,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
     "status": "up",
-    "uptime": "23.97%",
+    "uptime": "23.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "23.97%",
-    "uptimeMonth": "23.97%",
-    "uptimeYear": "23.97%",
+    "uptimeWeek": "23.93%",
+    "uptimeMonth": "23.93%",
+    "uptimeYear": "23.93%",
     "time": 95,
     "timeDay": 99,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-06-13": 1233,
+      "2023-06-13": 1241,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 201
@@ -824,18 +826,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/websearch.plugsugar.com.ico",
     "slug": "plugsugar",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.41%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 1653,
     "timeDay": 3780,
     "timeWeek": 1653,
     "timeMonth": 1653,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-06-13": 82
+      "2023-06-13": 90
     }
   },
   {
@@ -880,18 +882,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfoliopilot.com.ico",
     "slug": "portfoliopilot",
     "status": "up",
-    "uptime": "87.24%",
-    "uptimeDay": "49.73%",
-    "uptimeWeek": "87.24%",
-    "uptimeMonth": "87.24%",
-    "uptimeYear": "87.24%",
+    "uptime": "87.11%",
+    "uptimeDay": "49.15%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "87.11%",
+    "uptimeYear": "87.11%",
     "time": 251,
     "timeDay": 261,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-06-13": 724
+      "2023-06-13": 732
     }
   },
   {
@@ -954,18 +956,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redfin.com.ico",
     "slug": "redfin",
     "status": "up",
-    "uptime": "84.49%",
-    "uptimeDay": "38.90%",
-    "uptimeWeek": "84.49%",
-    "uptimeMonth": "84.49%",
-    "uptimeYear": "84.49%",
+    "uptime": "84.37%",
+    "uptimeDay": "38.32%",
+    "uptimeWeek": "84.37%",
+    "uptimeMonth": "84.37%",
+    "uptimeYear": "84.37%",
     "time": 365,
     "timeDay": 376,
     "timeWeek": 365,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-06-13": 880
+      "2023-06-13": 888
     }
   },
   {
@@ -1309,7 +1311,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-13": 1233,
+      "2023-06-13": 1241,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1475,7 +1477,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-06-13": 1233,
+      "2023-06-13": 1241,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1533,7 +1535,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-06-13": 1233,
+      "2023-06-13": 1241,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
