@@ -652,19 +652,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "down",
-    "uptime": "27.86%",
+    "status": "up",
+    "uptime": "27.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.86%",
-    "uptimeMonth": "27.86%",
-    "uptimeYear": "27.86%",
-    "time": 92,
-    "timeDay": 98,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "uptimeWeek": "27.80%",
+    "uptimeMonth": "27.80%",
+    "uptimeYear": "27.80%",
+    "time": 93,
+    "timeDay": 99,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-06-13": 441,
+      "2023-06-13": 450,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 201
@@ -946,18 +946,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redfin.com.ico",
     "slug": "redfin",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.02%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
     "time": 365,
     "timeDay": 344,
     "timeWeek": 365,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-06-13": 88
+      "2023-06-13": 97
     }
   },
   {
@@ -1301,7 +1301,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-13": 441,
+      "2023-06-13": 450,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1467,7 +1467,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-06-13": 441,
+      "2023-06-13": 450,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
@@ -1525,7 +1525,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-06-13": 441,
+      "2023-06-13": 450,
       "2023-06-12": 1440,
       "2023-06-11": 1315
     }
