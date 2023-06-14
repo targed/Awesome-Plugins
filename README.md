@@ -1,5 +1,7 @@
 # [📈 Live Status](https://targed.github.io/GPT-Plugins/): <!--live status--> **🟧 Partial outage**
 
+More information and descriptions about each plugin can be found [**here**](https://github.com/targed/GPT-Plugins/blob/main/PLUGIN-INFORMATION.md)
+
 This repository contains the open-source uptime monitor and status page for [targed](https://targed.github.io/GPT-Plugins/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/targed/GPT-Plugins/workflows/Uptime%20CI/badge.svg)](https://github.com/targed/GPT-Plugins/actions?query=workflow%3A%22Uptime+CI%22)
