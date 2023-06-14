@@ -1,7 +1,7 @@
 url: https://medium.com/.well-known/ai-plugin.json
-status: down
-code: 429
-responseTime: 44
-lastUpdated: 2023-06-14T02:16:11.610Z
+status: up
+code: 200
+responseTime: 203
+lastUpdated: 2023-06-14T02:47:59.237Z
 startTime: Fri Jun 09 2023 21:58:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
