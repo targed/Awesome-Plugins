@@ -1,7 +1,7 @@
 url: https://datasette.io/.well-known/ai-plugin.json
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2023-06-15T23:09:37.375Z
+responseTime: 149
+lastUpdated: 2023-06-16T08:39:04.134Z
 startTime: Fri Jun 09 2023 20:42:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
