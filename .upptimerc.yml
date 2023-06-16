@@ -23,6 +23,8 @@ sites:
     url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
   - name: Coupert
     url: https://www.coupert.com/.well-known/ai-plugin.json
+  - name: Coursera
+    url: https://www.coursera.com/.well-known/ai-plugin.json
   - name: Creaticode
     url: https://openai.creaticode.com/.well-known/ai-plugin.json
   - name: Crossmint
@@ -127,6 +129,8 @@ sites:
     url: https://shop.app/.well-known/ai-plugin.json
   - name: Slack
     url: https://slack.com/.well-known/ai-plugin.json
+  - name: Stonks
+    url: https://stonks.news/.well-known/ai-plugin.json
   - name: Talkface
     url: https://talkface.ai/.well-known/ai-plugin.json
   - name: Tasty
@@ -141,6 +145,8 @@ sites:
     url: https://www.theansible.com/.well-known/ai-plugin.json
   - name: Tilnote
     url: https://tilnote.io/.well-known/ai-plugin.json
+  - name: Toggle
+    url: https://www.junkdoctorsnj.com/.well-known/ai-plugin.json
   - name: Transvribe
     url: https://www.transvribe.com/.well-known/ai-plugin.json
   - name: Trip
