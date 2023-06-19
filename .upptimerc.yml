@@ -45,6 +45,8 @@ sites:
     url: https://docsbot.ai/.well-known/ai-plugin.json
   - name: Doordash
     url: https://consumer-mobile-bff.doordash.com/v1/aichat/static/ai-plugin.json
+  - name: Edmunds
+    url: https://api.edmunds.com/.well-known/ai-plugin.json
   - name: Freetv
     url: https://www.freetv-app.com/.well-known/ai-plugin.json
   - name: Getit
@@ -61,10 +63,16 @@ sites:
     url: https://gptweather.skirano.repl.co/.well-known/ai-plugin.json
   - name: Greenyroad
     url: https://www.greenyroad.com/.well-known/ai-plugin.json
+  - name: Ifttt_action_runs
+    url: https://ifttt.com/.well-known/ai-plugin.json
   - name: Influence Marketing
     url: https://influencermarketing.ai/.well-known/ai-plugin.json
   - name: Infobot
     url: https://infobot.ai/.well-known/ai-plugin.json
+  - name: Instacart
+    url: https://www.instacart.com/.well-known/ai-plugin.json
+  - name: Instaforex
+    url: https://instaforex.com/.well-known/ai-plugin.json
   - name: Iowa_State_University_Environmental_Mesonet
     url: https://mesonet.agron.iastate.edu/.well-known/ai-plugin.json
   - name: Kalendar
@@ -161,6 +169,8 @@ sites:
     url: https://www.valispace.com/.well-known/ai-plugin.json
   - name: Vbout
     url: https://vbout.com/.well-known/ai-plugin.json
+  - name: Whimsical
+    url: https://whimsical.com/api/ai-plugin
   - name: Wikiocity
     url: https://www.wikiocity.com/.well-known/ai-plugin.json
   - name: Wikipedia
