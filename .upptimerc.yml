@@ -17,6 +17,8 @@ sites:
     url: https://biztoc.com/.well-known/ai-plugin.json
   - name: Brainlox
     url: https://brainlox.ai/.well-known/ai-plugin.json
+  - name: Broadway
+    url: https://www.broadway.com/.well-known/ai-plugin.json
   - name: Bundlejs
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
   - name: Calculator
@@ -25,6 +27,8 @@ sites:
     url: https://www.coupert.com/.well-known/ai-plugin.json
   - name: Coursera
     url: https://www.coursera.com/.well-known/ai-plugin.json
+  - name: Crane Pumps Manuals
+    url: https://www.cranepumps.com/.well-known/ai-plugin.json
   - name: Creaticode
     url: https://openai.creaticode.com/.well-known/ai-plugin.json
   - name: Crossmint
@@ -55,6 +59,8 @@ sites:
     url: https://gh-plugin.teammait.com/.well-known/ai-plugin.json
   - name: Gochitchat
     url: https://gochitchat.ai/.well-known/ai-plugin.json
+  - name: gofynd
+    url: https://www.gofynd.com/ext/chatgpt-plugin/application/api/v1.0/.well-known/ai-plugin.json
   - name: Gps-telecom
     url: https://www.gps-telecom.com/.well-known/ai-plugin.json
   - name: Gpt.collov
@@ -101,6 +107,10 @@ sites:
     url: https://oneword.domains/.well-known/ai-plugin.json
   - name: Pandia
     url: https://pandia.pro/.well-known/ai-plugin.json
+  - name: PEForNFTs
+    url: https://nftvaluing.com/.well-known/ai-plugin.json
+  - name: Placid
+    url: https://placid.app/.well-known/ai-plugin.json
   - name: Plugin.so
     url: https://plugin.so/.well-known/ai-plugin.json
   - name: Plugsugar
@@ -135,10 +145,14 @@ sites:
     url: https://semgrep.dev/.well-known/ai-plugin.json
   - name: Shop
     url: https://shop.app/.well-known/ai-plugin.json
+  - name: SimplyCodes
+    url: https://simplycodes.com/.well-known/ai-plugin.json
   - name: Slack
     url: https://slack.com/.well-known/ai-plugin.json
   - name: Stonks
     url: https://stonks.news/.well-known/ai-plugin.json
+  - name: Storeya
+    url: https://www.storeya.com/.well-known/ai-plugin.json
   - name: Talkface
     url: https://talkface.ai/.well-known/ai-plugin.json
   - name: Tasty
@@ -169,6 +183,8 @@ sites:
     url: https://www.valispace.com/.well-known/ai-plugin.json
   - name: Vbout
     url: https://vbout.com/.well-known/ai-plugin.json
+  - name: Video_highlight
+    url: https://videohighlight.com/.well-known/ai-plugin.json
   - name: Whimsical
     url: https://whimsical.com/api/ai-plugin
   - name: Wikiocity
