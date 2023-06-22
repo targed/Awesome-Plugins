@@ -1,7 +1,7 @@
 url: https://www.monitup.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 612
-lastUpdated: 2023-06-21T23:10:21.037Z
+status: down
+code: 503
+responseTime: 7892
+lastUpdated: 2023-06-22T09:10:47.068Z
 startTime: Fri Jun 09 2023 21:58:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
