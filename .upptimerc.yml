@@ -17,6 +17,8 @@ sites:
     url: https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json
   - name: Biztoc
     url: https://biztoc.com/.well-known/ai-plugin.json
+  - name: Boxil
+    url: https://boxil.jp/.well-known/ai-plugin.json
   - name: Boxon
     url: https://www.boxon.com/.well-known/ai-plugin.json
   - name: Brainlox
@@ -27,6 +29,10 @@ sites:
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
   - name: Calculator
     url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
+  - name: Capcut
+    url: https://www.capcut.com/.well-known/ai-plugin.json
+  - name: Coderpad
+    url: https://app.coderpad.io/.well-known/ai-plugin.json
   - name: Coupert
     url: https://www.coupert.com/.well-known/ai-plugin.json
   - name: Coursehero
@@ -95,6 +101,8 @@ sites:
     url: https://www.klarna.com/.well-known/ai-plugin.json
   - name: Kyuda
     url: https://www.kyuda.io/.well-known/ai-plugin.json
+  - name: Listennotes
+    url: https://ai.listennotes.com/.well-known/ai-plugin.json
   - name: Luma
     url: https://lu.ma/.well-known/ai-plugin.json
   - name: Medium
@@ -113,8 +121,14 @@ sites:
     url: https://mrkter.io/.well-known/ai-plugin.json
   - name: Oneword
     url: https://oneword.domains/.well-known/ai-plugin.json
+  - name: OfferZen
+    url: https://www.offerzen.com/.well-known/ai-plugin.json
+  - name: Openarch
+    url: https://www.openarch.nl/.well-known/ai-plugin.json
   - name: Pandia
     url: https://pandia.pro/.well-known/ai-plugin.json
+  - name: Parcelsapp
+    url: https://parcelsapp.com/.well-known/ai-plugin.json 
   - name: PEForNFTs
     url: https://nftvaluing.com/.well-known/ai-plugin.json
   - name: Placid
@@ -185,6 +199,8 @@ sites:
     url: https://www.trip.com/.well-known/ai-plugin.json
   - name: Triplewhale
     url: https://www.triplewhale.com/.well-known/ai-plugin.json
+  - name: Twinkorea
+    url: https://twinkorea.io/.well-known/ai-plugin.json
   - name: Twtdata
     url: https://www.twtdata.com/.well-known/ai-plugin.json
   - name: Urlbox
@@ -195,6 +211,8 @@ sites:
     url: https://vbout.com/.well-known/ai-plugin.json
   - name: Video_highlight
     url: https://videohighlight.com/.well-known/ai-plugin.json
+  - name: Vidiq
+    url: https://api.vidiq.com/.well-known/ai-plugin.json
   - name: wego
     url: https://www.welt.de/.well-known/ai-plugin.json
   - name: welt_news_verse
@@ -217,6 +235,8 @@ sites:
     url: https://yabblezone.net/.well-known/ai-plugin.json
   - name: Yelp
     url: https://www.yelp.com/.well-known/ai-plugin.json
+  - name: Yourtango
+    url: https://www.yourtango.com/.well-known/ai-plugin.json
   - name: Zapier
     url: https://zapier.com/.well-known/ai-plugin.json
 
