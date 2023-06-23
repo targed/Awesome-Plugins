@@ -27,6 +27,10 @@ sites:
     url: https://www.broadway.com/.well-known/ai-plugin.json
   - name: Bundlejs
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
+  - name: Chatmaps
+    url: https://chatmaps.sdan.io/.well-known/ai-plugin.json
+  - name: Chatwithwebsite
+    url: https://chatwithwebsite.sdan.io/.well-known/ai-plugin.json
   - name: Calculator
     url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
   - name: Capcut
@@ -99,12 +103,16 @@ sites:
     url: https://api.kittycad.io/.well-known/ai-plugin.json
   - name: Klarna
     url: https://www.klarna.com/.well-known/ai-plugin.json
+  - name: Klook
+    url: https://www.klook.com/.well-known/ai-plugin.json
   - name: Kyuda
     url: https://www.kyuda.io/.well-known/ai-plugin.json
   - name: Listennotes
     url: https://ai.listennotes.com/.well-known/ai-plugin.json
   - name: Luma
     url: https://lu.ma/.well-known/ai-plugin.json
+  - name: Magicslides
+    url: https://www.magicslides.app/.well-known/ai-plugin.json
   - name: Medium
     url: https://medium.com/.well-known/ai-plugin.json
   - name: Meitre
@@ -143,6 +151,8 @@ sites:
     url: https://polygon.io/.well-known/ai-plugin.json
   - name: Portfoliopilot
     url: https://portfoliopilot.com/.well-known/ai-plugin.json
+  - name: Preply
+    url: https://preply.com/.well-known/ai-plugin.json
   - name: Pricerunner
     url: https://www.pricerunner.com/.well-known/ai-plugin.json
   - name: Quickchart
@@ -151,6 +161,8 @@ sites:
     url: https://ramp.com/.well-known/ai-plugin.json
   - name: Redfin
     url: https://www.redfin.com/.well-known/ai-plugin.json
+  - name: Reflect
+    url: https://reflect.app/.well-known/ai-plugin.json
   - name: Remoteambition
     url: https://remoteambition.com/.well-known/ai-plugin.json
   - name: Rentable
