@@ -5,6 +5,10 @@ repo: GPT-Plugins # The name of this repository
 sites:
   - name: Academic_research_engine
     url: https://oa.mg/.well-known/ai-plugin.json
+  - name: Alphavantage
+    url: https://www.alphavantage.co/.well-known/ai-plugin.json
+  - name: Amazingtalker
+    url: https://en.amazingtalker.com/.well-known/ai-plugin.json
   - name: APIs.guru
     url: https://apis.guru/.well-known/ai-plugin.json
   - name: Appypie
@@ -205,6 +209,8 @@ sites:
     url: https://www.junkdoctorsnj.com/.well-known/ai-plugin.json
   - name: Transvribe
     url: https://www.transvribe.com/.well-known/ai-plugin.json
+  - name: Travelmyth
+    url: https://www.travelmyth.com/.well-known/ai-plugin.json
   - name: Trendeer
     url: https://www.trendeer.com/.well-known/ai-plugin.json
   - name: Trip
@@ -215,6 +221,8 @@ sites:
     url: https://twinkorea.io/.well-known/ai-plugin.json
   - name: Twtdata
     url: https://www.twtdata.com/.well-known/ai-plugin.json
+  - name: Tym
+    url: https://tym.world/.well-known/ai-plugin.json
   - name: Urlbox
     url: https://urlbox.io/.well-known/ai-plugin.json
   - name: Valispace
