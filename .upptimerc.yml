@@ -5,6 +5,10 @@ repo: GPT-Plugins # The name of this repository
 sites:
   - name: Academic_research_engine
     url: https://oa.mg/.well-known/ai-plugin.json
+  - name: Agones
+    url: https://agones.gr/.well-known/ai-plugin.json
+  - name: Aitoolhunt
+    url: https://www.aitoolhunt.com/.well-known/ai-plugin.json
   - name: Alphavantage
     url: https://www.alphavantage.co/.well-known/ai-plugin.json
   - name: Amazingtalker
@@ -33,6 +37,8 @@ sites:
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
   - name: Chatmaps
     url: https://chatmaps.sdan.io/.well-known/ai-plugin.json
+  - name: Chatspot
+    url: https://chatspot.ai/.well-known/ai-plugin.json
   - name: Chatwithwebsite
     url: https://chatwithwebsite.sdan.io/.well-known/ai-plugin.json
   - name: Calculator
@@ -53,6 +59,8 @@ sites:
     url: https://openai.creaticode.com/.well-known/ai-plugin.json
   - name: Crossmint
     url: https://www.crossmint.com/.well-known/ai-plugin.json
+  - name: Cryptojobslist
+    url: https://cryptojobslist.com/.well-known/ai-plugin.json
   - name: DALL-E
     url: https://api.openai.com/.well-known/ai-plugin.json
   - name: Datamuse
@@ -73,6 +81,8 @@ sites:
     url: https://api.edmunds.com/.well-known/ai-plugin.json
   - name: Freetv
     url: https://www.freetv-app.com/.well-known/ai-plugin.json
+  - name: Fyrebox
+    url: https://www.fyrebox.com/.well-known/ai-plugin.json
   - name: Getit
     url: https://api.getit.ai/.well_known/ai-plugin.json
   - name: GitHub **UNOFFICIAL**
@@ -103,6 +113,8 @@ sites:
     url: https://mesonet.agron.iastate.edu/.well-known/ai-plugin.json
   - name: Kalendar
     url: https://kalendar.ai/.well-known/ai-plugin.json
+  - name: Kassal
+    url: https://kassal.app/.well-known/ai-plugin.json
   - name: Kittycad
     url: https://api.kittycad.io/.well-known/ai-plugin.json
   - name: Klarna
@@ -131,10 +143,14 @@ sites:
     url: https://www.monitup.com/.well-known/ai-plugin.json
   - name: Mrkter
     url: https://mrkter.io/.well-known/ai-plugin.json
+  - name: Nftlinkroundup
+    url: https://nftlinkroundup.com/.well-known/ai-plugin.json
   - name: Oneword
     url: https://oneword.domains/.well-known/ai-plugin.json
   - name: OfferZen
     url: https://www.offerzen.com/.well-known/ai-plugin.json
+  - name: Olomouc
+    url: https://olomouc.eu/.well-known/ai-plugin.json
   - name: Openarch
     url: https://www.openarch.nl/.well-known/ai-plugin.json
   - name: Pandia
@@ -155,6 +171,8 @@ sites:
     url: https://polygon.io/.well-known/ai-plugin.json
   - name: Portfoliopilot
     url: https://portfoliopilot.com/.well-known/ai-plugin.json
+  - name: PortfoliosLab
+    url: https://portfolioslab.com/.well-known/ai-plugin.json
   - name: Preply
     url: https://preply.com/.well-known/ai-plugin.json
   - name: Pricerunner
@@ -203,6 +221,8 @@ sites:
     url: https://textbelt.com/.well-known/ai-plugin.json
   - name: Theansible
     url: https://www.theansible.com/.well-known/ai-plugin.json
+  - name: TickTick
+    url: https://ticktick.com/.well-known/ai-plugin.json
   - name: Tilnote
     url: https://tilnote.io/.well-known/ai-plugin.json
   - name: Toggle
