@@ -35,6 +35,8 @@ sites:
     url: https://www.broadway.com/.well-known/ai-plugin.json
   - name: Bundlejs
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
+  - name: Cactiml
+    url: https://labs.cactiml.com/.well-known/ai-plugin.json
   - name: Chatmaps
     url: https://chatmaps.sdan.io/.well-known/ai-plugin.json
   - name: Chatspot
@@ -79,6 +81,8 @@ sites:
     url: https://consumer-mobile-bff.doordash.com/v1/aichat/static/ai-plugin.json
   - name: Edmunds
     url: https://api.edmunds.com/.well-known/ai-plugin.json
+  - name: Etoro
+    url: https://www.etoro.com/.well-known/ai-plugin.json
   - name: Freetv
     url: https://www.freetv-app.com/.well-known/ai-plugin.json
   - name: Fyrebox
@@ -123,6 +127,10 @@ sites:
     url: https://www.klook.com/.well-known/ai-plugin.json
   - name: Kyuda
     url: https://www.kyuda.io/.well-known/ai-plugin.json
+  - name: Laft
+    url: https://fdvbygg.no/.well-known/ai-plugin.json
+  - name: Lighthouse
+    url: https://lighthouse.app/.well-known/ai-plugin.json
   - name: Listennotes
     url: https://ai.listennotes.com/.well-known/ai-plugin.json
   - name: Luma
@@ -177,6 +185,8 @@ sites:
     url: https://preply.com/.well-known/ai-plugin.json
   - name: Pricerunner
     url: https://www.pricerunner.com/.well-known/ai-plugin.json
+  - name: Progressier
+    url: https://progressier.com/.well-known/ai-plugin.json
   - name: Quickchart
     url: https://quickchart.io/.well-known/ai-plugin.json
   - name: Ramp
@@ -197,6 +207,8 @@ sites:
     url: https://scenex.jina.ai/.well-known/ai-plugin.json
   - name: SchoolDigger
     url: https://www.schooldigger.com/.well-known/ai-plugin.json
+  - name: Screenshotone
+    url: https://screenshotone.com/.well-known/ai-plugin.json
   - name: Semgrep
     url: https://semgrep.dev/.well-known/ai-plugin.json
   - name: Shop
@@ -205,6 +217,8 @@ sites:
     url: https://simplycodes.com/.well-known/ai-plugin.json
   - name: Slack
     url: https://slack.com/.well-known/ai-plugin.json
+  - name: Stepstone
+    url: https://www.stepstone.de/.well-known/ai-plugin.json
   - name: Stonks
     url: https://stonks.news/.well-known/ai-plugin.json
   - name: Storeya
