@@ -1,7 +1,7 @@
 url: https://www.wolframcloud.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 211
-lastUpdated: 2023-06-27T23:11:40.558Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-06-28T16:37:05.404Z
 startTime: Sat Jun 10 2023 18:36:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
