@@ -1,7 +1,7 @@
 url: https://www.aitoolhunt.com/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 161
-lastUpdated: 2023-06-30T16:49:40.352Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2023-06-30T17:55:56.302Z
 startTime: Fri Jun 23 2023 23:46:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
