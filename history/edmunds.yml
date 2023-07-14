@@ -1,7 +1,7 @@
 url: https://api.edmunds.com/.well-known/ai-plugin.json
 status: up
 code: 200
-responseTime: 167
-lastUpdated: 2023-07-13T23:11:33.858Z
+responseTime: 99
+lastUpdated: 2023-07-14T23:10:45.462Z
 startTime: Mon Jun 19 2023 01:07:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
