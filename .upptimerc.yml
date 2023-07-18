@@ -164,7 +164,7 @@ sites:
   - name: Openarch
     url: https://www.openarch.nl/.well-known/ai-plugin.json
   - name: Outscraper
-  - url: https://outscraper.com/.well-known/ai-plugin.json
+    url: https://outscraper.com/.well-known/ai-plugin.json
   - name: Pandia
     url: https://pandia.pro/.well-known/ai-plugin.json
   - name: Parcelsapp
@@ -292,7 +292,7 @@ sites:
   - name: Yabble
     url: https://yabblezone.net/.well-known/ai-plugin.json
   - name: YachtSearch
-  - url: https://www.denisonyachtsales.com/.well-known/ai-plugin.json
+    url: https://www.denisonyachtsales.com/.well-known/ai-plugin.json
   - name: Yelp
     url: https://www.yelp.com/.well-known/ai-plugin.json
   - name: Yourtango
