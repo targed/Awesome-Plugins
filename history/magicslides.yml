@@ -1,7 +1,7 @@
 url: https://www.magicslides.app/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-07-26T11:19:05.466Z
+status: up
+code: 200
+responseTime: 196
+lastUpdated: 2023-07-26T11:28:34.451Z
 startTime: Fri Jun 23 2023 16:04:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
