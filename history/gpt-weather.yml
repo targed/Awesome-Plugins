@@ -1,7 +1,7 @@
 url: https://gptweather.skirano.repl.co/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 13325
-lastUpdated: 2023-07-27T16:53:58.180Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2023-07-27T17:06:48.521Z
 startTime: Fri Jun 09 2023 20:42:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
