@@ -1,7 +1,7 @@
 url: https://chatmaps.sdan.io/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 23461
-lastUpdated: 2023-08-02T17:53:18.685Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2023-08-02T18:07:17.944Z
 startTime: Fri Jun 23 2023 16:03:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
