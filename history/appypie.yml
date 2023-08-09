@@ -1,7 +1,7 @@
 url: https://www.appypie.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2023-08-08T23:09:13.738Z
+status: down
+code: 502
+responseTime: 89
+lastUpdated: 2023-08-09T22:10:06.831Z
 startTime: Fri Jun 09 2023 20:26:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
