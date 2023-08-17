@@ -1,7 +1,7 @@
 url: https://ifttt.com/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 15147
-lastUpdated: 2023-08-17T20:40:36.406Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2023-08-17T20:58:08.200Z
 startTime: Mon Jun 19 2023 01:07:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
