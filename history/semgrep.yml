@@ -1,7 +1,7 @@
 url: https://semgrep.dev/.well-known/ai-plugin.json
 status: up
 code: 200
-responseTime: 324
-lastUpdated: 2023-08-18T23:09:53.522Z
-startTime: Sat Jun 10 2023 18:33:45 GMT+0000 (Coordinated Universal Time)
+responseTime: 237
+lastUpdated: 2023-08-19T23:09:57.006Z
+startTime: 2023-06-10T18:33:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
