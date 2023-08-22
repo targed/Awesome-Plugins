@@ -1,7 +1,7 @@
 url: https://www.yourtango.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 146
-lastUpdated: 2023-08-21T23:10:33.168Z
+status: down
+code: 403
+responseTime: 110
+lastUpdated: 2023-08-22T12:14:48.409Z
 startTime: 2023-06-23T15:14:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
