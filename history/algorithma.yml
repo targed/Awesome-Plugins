@@ -1,7 +1,7 @@
 url: https://algorithma.ruvnet.repl.co/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-08-23T19:38:06.206Z
+status: up
+code: 200
+responseTime: 413
+lastUpdated: 2023-08-23T19:46:38.808Z
 startTime: 2023-07-18T16:02:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
