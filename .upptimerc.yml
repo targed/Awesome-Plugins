@@ -25,6 +25,8 @@ sites:
     url: https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json
   - name: Babyagichatgpt
     url: https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json
+  - name: Binance
+    url: https://public.bnbstatic.com/.well-known/ai-plugin.json
   - name: Biztoc
     url: https://biztoc.com/.well-known/ai-plugin.json
   - name: Boxil
@@ -51,6 +53,8 @@ sites:
     url: https://www.capcut.com/.well-known/ai-plugin.json
   - name: Coderpad
     url: https://app.coderpad.io/.well-known/ai-plugin.json
+  - name: ConvertPDF
+    url: https://pheecws.foxit.com/.well-known/ai-plugin.json
   - name: Coupert
     url: https://www.coupert.com/.well-known/ai-plugin.json
   - name: Coursehero
@@ -165,6 +169,8 @@ sites:
     url: https://www.openarch.nl/.well-known/ai-plugin.json
   - name: Outscraper
     url: https://outscraper.com/.well-known/ai-plugin.json
+  - name: PageWhisperer
+    url: https://wroom.io/.well-known/ai-plugin.json
   - name: Pandia
     url: https://pandia.pro/.well-known/ai-plugin.json
   - name: Parcelsapp
@@ -297,6 +303,8 @@ sites:
     url: https://www.yelp.com/.well-known/ai-plugin.json
   - name: Yourtango
     url: https://www.yourtango.com/.well-known/ai-plugin.json
+  - name: YouTubeSummaries
+    url: https://eightify.app/.well-known/ai-plugin.json
   - name: Zapier
     url: https://zapier.com/.well-known/ai-plugin.json
 
