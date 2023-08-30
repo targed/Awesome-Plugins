@@ -1,7 +1,7 @@
 url: https://cryptojobslist.com/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 209
-lastUpdated: 2023-08-30T05:51:06.655Z
+status: up
+code: 200
+responseTime: 260
+lastUpdated: 2023-08-30T05:59:54.227Z
 startTime: 2023-06-23T23:47:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
