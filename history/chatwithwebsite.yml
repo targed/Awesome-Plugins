@@ -1,7 +1,7 @@
 url: https://chatwithwebsite.sdan.io/.well-known/ai-plugin.json
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 232
-lastUpdated: 2023-08-30T23:09:03.506Z
+lastUpdated: 2023-08-31T11:05:38.114Z
 startTime: 2023-06-23T16:03:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
