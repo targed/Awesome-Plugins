@@ -1,6 +1,6 @@
 # Change these first
 owner: targed # Your GitHub organization or username, where this repository lives
-repo: GPT-Plugins # The name of this repository
+repo: Awesome-Plugins # The name of this repository
 
 sites:
   - name: Academic_research_engine
@@ -312,16 +312,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: https://targed.github.io/uptest/
-  baseUrl: /GPT-Plugins
+  baseUrl: /Awesome-Plugins
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Plugins
   introTitle: "Plugins Uptime"
-  introMessage: This status page monitors [Plugins](https://github.com/targed/GPT-Plugins) for uptime.
+  introMessage: This status page monitors [Plugins](https://github.com/targed/Awesome-Plugins) for uptime.
   navbar:
     - title: Status
-      href: /GPT-Plugins
+      href: /Awesome-Plugins
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Plugin Information
-      href: https://github.com/targed/GPT-Plugins/blob/master/PLUGIN-INFORMATION.md
+      href: https://github.com/targed/Awesome-Plugins/blob/master/PLUGIN-INFORMATION.md
   theme: dark
