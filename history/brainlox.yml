@@ -1,7 +1,7 @@
 url: https://brainlox.ai/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2023-09-15T23:08:54.812Z
+status: down
+code: 502
+responseTime: 333
+lastUpdated: 2023-09-16T19:52:02.637Z
 startTime: 2023-06-09T20:26:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
