@@ -1,7 +1,7 @@
 url: https://progressier.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 958
-lastUpdated: 2023-10-02T23:10:43.689Z
+status: down
+code: 502
+responseTime: 21
+lastUpdated: 2023-10-03T02:07:23.220Z
 startTime: 2023-06-24T00:06:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
