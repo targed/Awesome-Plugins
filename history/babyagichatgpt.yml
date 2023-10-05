@@ -1,7 +1,7 @@
 url: https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json
-status: down
-code: 404
-responseTime: 267
-lastUpdated: 2023-10-05T05:51:25.657Z
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2023-10-05T06:24:27.008Z
 startTime: 2023-06-09T20:26:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
