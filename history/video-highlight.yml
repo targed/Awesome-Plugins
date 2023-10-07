@@ -1,7 +1,7 @@
 url: https://videohighlight.com/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 170
-lastUpdated: 2023-10-07T16:55:04.455Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2023-10-07T17:08:04.517Z
 startTime: 2023-06-20T20:10:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
