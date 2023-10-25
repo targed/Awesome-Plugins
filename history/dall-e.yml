@@ -1,7 +1,7 @@
 url: https://api.openai.com/.well-known/ai-plugin.json
 status: up
 code: 200
-responseTime: 76
-lastUpdated: 2023-10-24T23:09:35.178Z
+responseTime: 75
+lastUpdated: 2023-10-25T23:10:04.782Z
 startTime: 2023-06-09T20:42:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
