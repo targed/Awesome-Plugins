@@ -1,7 +1,7 @@
 url: https://www.redfin.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 276
-lastUpdated: 2023-10-28T09:10:29.911Z
+status: up
+code: 200
+responseTime: 298
+lastUpdated: 2023-10-28T20:46:56.782Z
 startTime: 2023-06-09T21:59:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
