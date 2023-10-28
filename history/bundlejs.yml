@@ -1,7 +1,7 @@
 url: https://deno.bundlejs.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2023-10-28T23:08:46.286Z
+status: down
+code: 520
+responseTime: 1336
+lastUpdated: 2023-10-28T23:23:39.490Z
 startTime: 2023-06-09T20:26:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
