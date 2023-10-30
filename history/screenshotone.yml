@@ -1,7 +1,7 @@
 url: https://screenshotone.com/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 153
-lastUpdated: 2023-10-30T20:07:56.404Z
+status: up
+code: 200
+responseTime: 191
+lastUpdated: 2023-10-30T20:22:01.011Z
 startTime: 2023-06-24T00:07:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
