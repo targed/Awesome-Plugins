@@ -1,7 +1,7 @@
 url: https://www.crossmint.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 175
-lastUpdated: 2023-10-30T23:09:27.401Z
+status: down
+code: 525
+responseTime: 61
+lastUpdated: 2023-10-31T09:59:23.351Z
 startTime: 2023-06-09T20:42:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
