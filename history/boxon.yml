@@ -1,7 +1,7 @@
 url: https://www.boxon.com/.well-known/ai-plugin.json
-status: down
-code: 404
-responseTime: 289
-lastUpdated: 2023-11-02T11:39:12.502Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2023-11-02T11:56:37.036Z
 startTime: 2023-06-23T14:53:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
