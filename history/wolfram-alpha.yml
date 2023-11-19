@@ -1,7 +1,7 @@
 url: https://www.wolframalpha.com/.well-known/ai-plugin.json
 status: up
 code: 200
-responseTime: 311
-lastUpdated: 2023-11-18T23:10:33.045Z
+responseTime: 239
+lastUpdated: 2023-11-19T23:10:43.078Z
 startTime: 2023-06-10T18:36:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
