@@ -1,7 +1,7 @@
 url: https://woxo.tech/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-26T01:02:36.099Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2023-11-26T02:02:19.065Z
 startTime: 2023-06-10T18:36:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
