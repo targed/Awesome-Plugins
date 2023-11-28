@@ -1,7 +1,7 @@
 url: https://www.coursera.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-28T20:37:26.444Z
+status: up
+code: 200
+responseTime: 2900
+lastUpdated: 2023-11-28T20:45:10.317Z
 startTime: 2023-06-16T08:38:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
