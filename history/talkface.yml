@@ -1,7 +1,7 @@
 url: https://talkface.ai/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 734
-lastUpdated: 2023-12-08T09:26:48.122Z
+status: up
+code: 200
+responseTime: 765
+lastUpdated: 2023-12-08T09:36:07.977Z
 startTime: 2023-06-12T08:34:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
