@@ -1,7 +1,7 @@
 url: https://tilnote.io/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 544
-lastUpdated: 2023-12-28T12:32:27.333Z
+status: up
+code: 200
+responseTime: 604
+lastUpdated: 2023-12-28T12:51:50.418Z
 startTime: 2023-06-10T18:33:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
