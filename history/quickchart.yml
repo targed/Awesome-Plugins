@@ -1,7 +1,7 @@
 url: https://quickchart.io/.well-known/ai-plugin.json
-status: down
-code: 520
-responseTime: 10419
-lastUpdated: 2024-01-03T16:49:17.867Z
+status: up
+code: 200
+responseTime: 330
+lastUpdated: 2024-01-03T16:58:05.315Z
 startTime: 2023-06-09T21:58:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
