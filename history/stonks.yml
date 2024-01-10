@@ -1,7 +1,7 @@
 url: https://stonks.news/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-10T20:35:26.498Z
+status: up
+code: 200
+responseTime: 335
+lastUpdated: 2024-01-10T20:44:05.648Z
 startTime: 2023-06-16T08:39:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
