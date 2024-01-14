@@ -1,7 +1,7 @@
 url: https://www.capcut.com/.well-known/ai-plugin.json
-status: down
-code: 404
-responseTime: 1028
-lastUpdated: 2024-01-14T22:54:19.473Z
+status: up
+code: 200
+responseTime: 377
+lastUpdated: 2024-01-14T23:09:02.810Z
 startTime: 2023-06-23T15:11:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
