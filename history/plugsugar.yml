@@ -1,7 +1,7 @@
 url: https://websearch.plugsugar.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 1490
-lastUpdated: 2024-01-16T23:10:52.784Z
+status: down
+code: 500
+responseTime: 183
+lastUpdated: 2024-01-17T21:48:01.233Z
 startTime: 2023-06-09T21:58:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
