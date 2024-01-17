@@ -1,7 +1,7 @@
 url: https://wroom.io/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 345
-lastUpdated: 2024-01-17T21:47:58.514Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2024-01-17T22:12:39.751Z
 startTime: 2023-08-30T18:45:40.357Z
 generator: Upptime <https://github.com/upptime/upptime>
