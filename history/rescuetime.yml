@@ -1,7 +1,7 @@
 url: https://rescuetime.com/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 288
-lastUpdated: 2024-01-17T23:12:13.822Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2024-01-17T23:26:06.425Z
 startTime: 2023-06-12T08:56:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
