@@ -1,7 +1,7 @@
 url: https://www.greenyroad.com/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 151
-lastUpdated: 2024-01-17T21:47:35.548Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2024-01-17T22:12:24.221Z
 startTime: 2023-06-09T20:42:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
