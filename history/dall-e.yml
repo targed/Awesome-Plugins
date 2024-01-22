@@ -1,7 +1,7 @@
 url: https://api.openai.com/.well-known/ai-plugin.json
 status: down
 code: 404
-responseTime: 109
-lastUpdated: 2024-01-21T23:10:49.916Z
+responseTime: 216
+lastUpdated: 2024-01-22T23:10:35.782Z
 startTime: 2023-06-09T20:42:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
