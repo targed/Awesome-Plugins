@@ -1,7 +1,7 @@
 url: https://portfoliopilot.com/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 288
-lastUpdated: 2024-01-23T10:30:56.646Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2024-01-23T11:41:43.164Z
 startTime: 2023-06-09T21:58:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
