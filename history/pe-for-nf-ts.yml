@@ -1,7 +1,7 @@
 url: https://nftvaluing.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-08T06:30:02.601Z
+status: up
+code: 200
+responseTime: 211
+lastUpdated: 2024-02-08T06:47:43.673Z
 startTime: 2023-06-20T20:10:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
