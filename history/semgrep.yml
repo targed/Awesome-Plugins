@@ -1,7 +1,7 @@
 url: https://semgrep.dev/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 78
-lastUpdated: 2024-02-07T23:11:03.851Z
+status: down
+code: 502
+responseTime: 3276
+lastUpdated: 2024-02-08T19:27:26.135Z
 startTime: 2023-06-10T18:33:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
