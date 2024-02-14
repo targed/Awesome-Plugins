@@ -1,7 +1,7 @@
 url: https://www.alphavantage.co/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 165
-lastUpdated: 2024-02-14T17:11:16.049Z
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2024-02-14T17:24:42.308Z
 startTime: 2023-06-23T16:07:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
