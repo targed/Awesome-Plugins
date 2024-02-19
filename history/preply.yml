@@ -1,7 +1,7 @@
 url: https://preply.com/.well-known/ai-plugin.json
-status: down
-code: 504
-responseTime: 15175
-lastUpdated: 2024-02-19T14:19:39.808Z
+status: up
+code: 200
+responseTime: 20964
+lastUpdated: 2024-02-19T14:29:45.229Z
 startTime: 2023-06-23T16:04:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
