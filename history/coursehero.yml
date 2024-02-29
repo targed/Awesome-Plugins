@@ -1,7 +1,7 @@
 url: https://www.coursehero.com/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 96
-lastUpdated: 2024-02-29T23:04:35.570Z
+status: up
+code: 200
+responseTime: 203
+lastUpdated: 2024-02-29T23:19:59.022Z
 startTime: 2023-06-23T14:53:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
