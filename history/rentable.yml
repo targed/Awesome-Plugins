@@ -1,7 +1,7 @@
 url: https://www.rentable.co/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 257
-lastUpdated: 2024-03-02T07:24:55.975Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2024-03-02T07:33:41.572Z
 startTime: 2023-06-09T21:59:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
