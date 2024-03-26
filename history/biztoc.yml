@@ -1,7 +1,7 @@
 url: https://biztoc.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-26T07:22:22.820Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2024-03-26T07:38:42.573Z
 startTime: 2023-06-09T20:26:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
