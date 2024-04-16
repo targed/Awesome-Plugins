@@ -1,7 +1,7 @@
 url: https://telnyx.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 392
-lastUpdated: 2024-04-15T23:11:03.494Z
+status: down
+code: 500
+responseTime: 1270
+lastUpdated: 2024-04-16T15:49:06.512Z
 startTime: 2023-06-10T18:33:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
