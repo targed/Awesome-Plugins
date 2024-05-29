@@ -1,7 +1,7 @@
 url: https://outscraper.com/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 397
-lastUpdated: 2024-05-29T08:20:25.786Z
+status: up
+code: 200
+responseTime: 407
+lastUpdated: 2024-05-29T08:34:15.744Z
 startTime: 2023-07-18T16:03:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
