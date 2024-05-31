@@ -1,7 +1,7 @@
 url: https://tym.world/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-31T02:43:27.293Z
+status: up
+code: 200
+responseTime: 1069
+lastUpdated: 2024-05-31T03:00:00.829Z
 startTime: 2023-06-23T16:10:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
