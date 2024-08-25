@@ -1,7 +1,7 @@
 url: https://www.yelp.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2024-08-25T03:32:40.081Z
+status: down
+code: 404
+responseTime: 120
+lastUpdated: 2024-08-25T03:41:37.264Z
 startTime: 2023-06-11T02:04:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
