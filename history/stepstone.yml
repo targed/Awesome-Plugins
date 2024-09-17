@@ -1,7 +1,7 @@
 url: https://www.stepstone.de/.well-known/ai-plugin.json
-status: down
-code: 404
-responseTime: 865
-lastUpdated: 2024-09-17T09:20:54.713Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2024-09-17T12:53:27.098Z
 startTime: 2023-06-24T00:07:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
