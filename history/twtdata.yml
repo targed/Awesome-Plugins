@@ -1,7 +1,7 @@
 url: https://www.twtdata.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-02T19:13:33.023Z
+status: up
+code: 200
+responseTime: 15170
+lastUpdated: 2024-10-02T19:53:14.124Z
 startTime: 2023-06-10T18:33:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
