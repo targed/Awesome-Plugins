@@ -1,7 +1,7 @@
 url: https://gh-plugin.teammait.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-22T04:21:48.575Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2024-10-22T04:38:13.283Z
 startTime: 2023-06-09T20:42:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
