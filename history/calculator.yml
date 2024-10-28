@@ -1,7 +1,7 @@
 url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
-status: down
-code: 429
-responseTime: 212
-lastUpdated: 2024-10-28T10:51:30.342Z
+status: up
+code: 200
+responseTime: 894
+lastUpdated: 2024-10-28T11:20:31.959Z
 startTime: 2023-06-09T19:55:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
