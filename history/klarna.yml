@@ -1,7 +1,7 @@
 url: https://www.klarna.com/.well-known/ai-plugin.json
-status: up
-code: 200
+status: down
+code: 404
 responseTime: 209
-lastUpdated: 2024-11-06T03:46:40.232Z
+lastUpdated: 2024-11-06T04:14:34.286Z
 startTime: 2023-06-09T20:42:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
