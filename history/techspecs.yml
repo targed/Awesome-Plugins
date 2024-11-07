@@ -1,7 +1,7 @@
 url: https://techspecs.io/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2024-11-06T23:13:41.451Z
+status: down
+code: 403
+responseTime: 455
+lastUpdated: 2024-11-07T13:15:55.311Z
 startTime: 2023-06-10T18:33:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
