@@ -1,7 +1,7 @@
 url: https://www.kyuda.io/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-29T19:57:17.509Z
+status: up
+code: 200
+responseTime: 461
+lastUpdated: 2024-11-29T20:18:54.353Z
 startTime: 2023-06-09T21:58:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
