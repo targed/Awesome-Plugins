@@ -1,7 +1,7 @@
 url: https://vbout.com/.well-known/ai-plugin.json
-status: down
-code: 504
-responseTime: 10168
-lastUpdated: 2024-12-14T21:59:56.891Z
+status: up
+code: 200
+responseTime: 195
+lastUpdated: 2024-12-14T22:18:56.813Z
 startTime: 2023-06-12T08:51:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
