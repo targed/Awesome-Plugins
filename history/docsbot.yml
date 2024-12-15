@@ -1,7 +1,7 @@
 url: https://docsbot.ai/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 193
-lastUpdated: 2024-12-14T23:12:55.608Z
+status: down
+code: 503
+responseTime: 150
+lastUpdated: 2024-12-15T16:26:27.638Z
 startTime: 2023-06-09T20:42:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
