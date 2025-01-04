@@ -1,7 +1,7 @@
 url: https://eightify.app/.well-known/ai-plugin.json
-status: down
-code: 502
-responseTime: 205
-lastUpdated: 2025-01-03T23:49:26.052Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2025-01-04T01:19:41.945Z
 startTime: 2023-08-30T18:46:22.983Z
 generator: Upptime <https://github.com/upptime/upptime>
