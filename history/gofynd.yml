@@ -1,7 +1,7 @@
 url: https://www.gofynd.com/ext/chatgpt-plugin/application/api/v1.0/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 1698
-lastUpdated: 2025-02-03T23:12:11.980Z
+status: down
+code: 404
+responseTime: 815
+lastUpdated: 2025-02-04T05:32:57.916Z
 startTime: 2023-06-20T20:09:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
