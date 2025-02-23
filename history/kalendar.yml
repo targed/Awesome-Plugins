@@ -1,7 +1,7 @@
 url: https://kalendar.ai/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2025-02-22T23:11:39.575Z
+status: down
+code: 503
+responseTime: 264
+lastUpdated: 2025-02-23T09:47:23.939Z
 startTime: 2023-06-09T20:42:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
