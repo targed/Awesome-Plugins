@@ -1,7 +1,7 @@
 url: https://www.denisonyachtsales.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2025-02-28T23:13:49.082Z
+status: down
+code: 403
+responseTime: 122
+lastUpdated: 2025-03-01T05:49:41.685Z
 startTime: 2023-07-18T16:04:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
