@@ -1,7 +1,7 @@
 url: https://app.asana.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 120
-lastUpdated: 2025-03-24T23:13:19.716Z
+status: down
+code: 503
+responseTime: 136
+lastUpdated: 2025-03-25T14:18:12.426Z
 startTime: 2023-06-09T20:26:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
