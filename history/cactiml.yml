@@ -1,7 +1,7 @@
 url: https://labs.cactiml.com/.well-known/ai-plugin.json
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-23T23:14:06.182Z
+code: 404
+responseTime: 240
+lastUpdated: 2025-04-25T23:13:06.032Z
 startTime: 2023-06-24T00:05:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
