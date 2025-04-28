@@ -1,7 +1,7 @@
 url: https://zapier.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2025-04-27T23:15:07.256Z
+status: down
+code: 500
+responseTime: 465
+lastUpdated: 2025-04-28T20:45:57.030Z
 startTime: 2023-06-10T18:36:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
