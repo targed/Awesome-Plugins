@@ -1,7 +1,7 @@
 url: https://datamuse.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 379
-lastUpdated: 2025-05-03T15:11:32.507Z
+status: up
+code: 200
+responseTime: 146
+lastUpdated: 2025-05-03T15:28:55.869Z
 startTime: 2023-06-09T20:42:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
