@@ -1,7 +1,7 @@
 url: https://www.pricerunner.com/.well-known/ai-plugin.json
-status: up
-code: 202
-responseTime: 112
-lastUpdated: 2025-05-05T12:19:25.394Z
+status: down
+code: 404
+responseTime: 241
+lastUpdated: 2025-05-05T13:01:14.480Z
 startTime: 2023-06-09T21:58:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
