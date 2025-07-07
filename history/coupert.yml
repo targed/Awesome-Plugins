@@ -1,7 +1,7 @@
 url: https://www.coupert.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 225
-lastUpdated: 2025-07-06T23:14:21.032Z
+status: down
+code: 502
+responseTime: 5327
+lastUpdated: 2025-07-07T13:56:12.391Z
 startTime: 2023-06-09T20:42:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
