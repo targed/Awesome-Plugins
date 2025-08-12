@@ -1,7 +1,7 @@
 url: https://shop.app/.well-known/ai-plugin.json
 status: down
-code: 404
-responseTime: 198
-lastUpdated: 2025-08-11T23:15:07.878Z
+code: 429
+responseTime: 279
+lastUpdated: 2025-08-12T23:16:08.405Z
 startTime: 2023-06-10T18:33:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
