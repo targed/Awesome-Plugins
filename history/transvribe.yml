@@ -1,7 +1,7 @@
 url: https://www.transvribe.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-26T03:52:58.327Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2025-08-26T04:33:36.750Z
 startTime: 2023-06-10T18:33:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
