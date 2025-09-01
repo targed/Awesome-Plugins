@@ -1,7 +1,7 @@
 url: https://www.junkdoctorsnj.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 117
-lastUpdated: 2025-09-01T07:44:06.963Z
+status: up
+code: 200
+responseTime: 463
+lastUpdated: 2025-09-01T07:52:16.323Z
 startTime: 2023-06-16T08:39:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
