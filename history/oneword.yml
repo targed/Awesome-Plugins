@@ -1,7 +1,7 @@
 url: https://oneword.domains/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-03T19:28:01.393Z
+status: up
+code: 200
+responseTime: 65
+lastUpdated: 2025-09-03T19:37:05.957Z
 startTime: 2023-06-09T21:58:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
