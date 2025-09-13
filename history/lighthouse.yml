@@ -1,7 +1,7 @@
 url: https://lighthouse.app/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 229
-lastUpdated: 2025-09-13T18:54:43.737Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2025-09-13T19:09:03.369Z
 startTime: 2023-06-24T00:06:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
