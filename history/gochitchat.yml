@@ -1,7 +1,7 @@
 url: https://gochitchat.ai/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 872
-lastUpdated: 2025-09-23T14:39:45.258Z
+status: down
+code: 403
+responseTime: 248
+lastUpdated: 2025-09-23T14:51:07.801Z
 startTime: 2023-06-09T20:42:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
