@@ -1,7 +1,7 @@
 url: https://mrkter.io/.well-known/ai-plugin.json
-status: down
-code: 415
-responseTime: 767
-lastUpdated: 2025-09-23T07:51:41.214Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2025-09-23T08:00:21.555Z
 startTime: 2023-06-09T21:58:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
