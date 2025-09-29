@@ -1,7 +1,7 @@
 url: https://www.schooldigger.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 94
-lastUpdated: 2025-09-29T22:18:00.170Z
+status: up
+code: 200
+responseTime: 170
+lastUpdated: 2025-09-29T22:31:08.013Z
 startTime: 2023-06-10T18:33:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
