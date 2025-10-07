@@ -1,7 +1,7 @@
 url: https://lu.ma/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 344
-lastUpdated: 2025-10-07T21:45:14.030Z
+status: up
+code: 200
+responseTime: 231
+lastUpdated: 2025-10-07T22:11:39.843Z
 startTime: 2023-06-09T21:58:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
