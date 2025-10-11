@@ -1,7 +1,7 @@
 url: https://instaforex.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2025-10-10T23:13:18.132Z
+status: down
+code: 502
+responseTime: 280
+lastUpdated: 2025-10-11T16:34:03.934Z
 startTime: 2023-06-19T01:07:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
