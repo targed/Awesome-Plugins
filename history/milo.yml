@@ -1,7 +1,7 @@
 url: https://www.joinmilo.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-10-19T23:13:27.072Z
+status: down
+code: 429
+responseTime: 364
+lastUpdated: 2025-10-20T07:59:58.771Z
 startTime: 2023-06-09T21:58:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
