@@ -1,7 +1,7 @@
 url: https://reflect.app/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 106
-lastUpdated: 2025-10-19T23:13:43.333Z
+status: down
+code: 429
+responseTime: 309
+lastUpdated: 2025-10-20T07:51:22.711Z
 startTime: 2023-06-23T16:04:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
