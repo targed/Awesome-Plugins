@@ -1,7 +1,7 @@
 url: https://textbelt.com/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-20T17:04:16.081Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2025-10-20T17:26:08.799Z
 startTime: 2023-06-10T18:33:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
