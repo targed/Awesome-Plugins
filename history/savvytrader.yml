@@ -1,7 +1,7 @@
 url: https://savvytrader.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2025-10-19T23:13:44.902Z
+status: down
+code: 503
+responseTime: 180
+lastUpdated: 2025-10-20T15:34:59.320Z
 startTime: 2023-06-10T18:33:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
