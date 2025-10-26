@@ -1,7 +1,7 @@
 url: https://app.coderpad.io/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 226
-lastUpdated: 2025-10-26T11:01:26.397Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2025-10-26T11:20:07.198Z
 startTime: 2023-06-23T15:11:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
