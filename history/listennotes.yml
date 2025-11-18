@@ -1,7 +1,7 @@
 url: https://ai.listennotes.com/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 135
-lastUpdated: 2025-11-18T11:59:09.360Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2025-11-18T12:51:51.468Z
 startTime: 2023-06-23T15:11:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
