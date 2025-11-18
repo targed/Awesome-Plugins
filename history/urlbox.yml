@@ -1,7 +1,7 @@
 url: https://urlbox.io/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 283
-lastUpdated: 2025-11-18T12:00:07.309Z
+status: up
+code: 200
+responseTime: 387
+lastUpdated: 2025-11-18T12:53:02.877Z
 startTime: 2023-06-10T18:34:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
