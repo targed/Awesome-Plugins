@@ -1,7 +1,7 @@
 url: https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 251
-lastUpdated: 2025-11-18T12:50:41.258Z
+status: down
+code: 500
+responseTime: 82
+lastUpdated: 2025-11-18T13:23:29.006Z
 startTime: 2023-06-09T20:26:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
