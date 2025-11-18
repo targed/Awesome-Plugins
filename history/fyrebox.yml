@@ -1,7 +1,7 @@
 url: https://www.fyrebox.com/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 86
-lastUpdated: 2025-11-18T11:58:59.114Z
+status: up
+code: 200
+responseTime: 424
+lastUpdated: 2025-11-18T12:51:28.891Z
 startTime: 2023-06-23T23:47:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
