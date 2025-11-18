@@ -1,7 +1,7 @@
 url: https://olomouc.eu/.well-known/ai-plugin.json
-status: down
-code: 500
-responseTime: 439
-lastUpdated: 2025-11-18T11:59:15.143Z
+status: up
+code: 200
+responseTime: 542
+lastUpdated: 2025-11-18T12:52:00.064Z
 startTime: 2023-06-23T23:47:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
