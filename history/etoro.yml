@@ -1,7 +1,7 @@
 url: https://www.etoro.com/.well-known/ai-plugin.json
-status: down
-code: 503
-responseTime: 3293
-lastUpdated: 2026-03-29T17:18:18.770Z
+status: up
+code: 200
+responseTime: 452
+lastUpdated: 2026-03-29T17:51:17.377Z
 startTime: 2023-06-24T00:06:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
