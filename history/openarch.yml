@@ -1,7 +1,7 @@
 url: https://www.openarch.nl/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 833
-lastUpdated: 2026-03-30T23:31:28.066Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-03-31T05:44:08.013Z
 startTime: 2023-06-23T15:12:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
