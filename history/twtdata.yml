@@ -1,7 +1,7 @@
 url: https://www.twtdata.com/.well-known/ai-plugin.json
 status: down
-code: 403
-responseTime: 126
-lastUpdated: 2026-04-07T23:35:29.964Z
+code: 404
+responseTime: 299
+lastUpdated: 2026-04-08T23:36:06.696Z
 startTime: 2023-06-10T18:33:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
