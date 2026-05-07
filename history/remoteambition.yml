@@ -1,7 +1,7 @@
 url: https://remoteambition.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 158
-lastUpdated: 2026-05-05T23:44:07.983Z
+status: down
+code: 441
+responseTime: 410
+lastUpdated: 2026-05-07T11:42:05.982Z
 startTime: 2023-06-09T21:59:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
