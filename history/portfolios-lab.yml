@@ -1,7 +1,7 @@
 url: https://portfolioslab.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 25
-lastUpdated: 2026-05-10T18:48:18.399Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2026-05-10T19:56:49.374Z
 startTime: 2023-06-23T23:47:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
