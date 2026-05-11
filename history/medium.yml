@@ -1,7 +1,7 @@
 url: https://medium.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 26
-lastUpdated: 2026-05-11T08:07:24.811Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2026-05-11T11:08:47.601Z
 startTime: 2023-06-09T21:58:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
