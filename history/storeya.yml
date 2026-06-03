@@ -1,7 +1,7 @@
 url: https://www.storeya.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 225
-lastUpdated: 2026-06-03T00:52:28.579Z
+status: down
+code: 403
+responseTime: 83
+lastUpdated: 2026-06-03T17:26:43.882Z
 startTime: 2023-06-20T20:10:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
