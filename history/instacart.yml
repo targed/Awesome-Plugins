@@ -1,7 +1,7 @@
 url: https://www.instacart.com/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 36
-lastUpdated: 2026-06-03T17:18:38.122Z
+status: up
+code: 200
+responseTime: 191
+lastUpdated: 2026-06-03T20:36:09.546Z
 startTime: 2023-06-19T01:07:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
