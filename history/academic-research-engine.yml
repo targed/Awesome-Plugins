@@ -1,7 +1,7 @@
 url: https://oa.mg/.well-known/ai-plugin.json
 status: down
-code: 404
-responseTime: 460
-lastUpdated: 2026-06-18T00:12:30.683Z
+code: 500
+responseTime: 13267
+lastUpdated: 2026-06-19T00:23:00.325Z
 startTime: 2023-06-23T14:53:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
