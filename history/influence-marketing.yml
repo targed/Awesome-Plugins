@@ -1,7 +1,7 @@
 url: https://influencermarketing.ai/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 419
-lastUpdated: 2026-06-20T23:46:39.402Z
+status: down
+code: 415
+responseTime: 87
+lastUpdated: 2026-06-21T00:18:43.688Z
 startTime: 2023-06-09T20:42:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
