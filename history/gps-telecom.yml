@@ -1,7 +1,7 @@
 url: https://www.gps-telecom.com/.well-known/ai-plugin.json
 status: down
-code: 404
-responseTime: 2038
-lastUpdated: 2026-07-07T00:28:26.985Z
+code: 415
+responseTime: 634
+lastUpdated: 2026-07-08T00:03:24.204Z
 startTime: 2023-06-09T20:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
