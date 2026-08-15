@@ -1,7 +1,7 @@
 url: https://fdvbygg.no/.well-known/ai-plugin.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-15T23:20:14.159Z
+status: up
+code: 200
+responseTime: 579
+lastUpdated: 2026-08-15T23:56:42.121Z
 startTime: 2023-06-24T00:06:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
