@@ -1,7 +1,7 @@
 url: https://www.trendeer.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 466
-lastUpdated: 2026-09-05T09:45:11.493Z
+status: down
+code: 404
+responseTime: 231
+lastUpdated: 2026-09-05T13:19:50.942Z
 startTime: 2023-06-23T14:54:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
