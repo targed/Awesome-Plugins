@@ -1,7 +1,7 @@
 url: https://simplycodes.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2026-09-16T01:15:51.088Z
+status: down
+code: 410
+responseTime: 181
+lastUpdated: 2026-09-16T17:20:44.413Z
 startTime: 2023-06-20T20:10:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
