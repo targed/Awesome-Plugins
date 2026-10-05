@@ -1,7 +1,7 @@
 url: https://agones.gr/.well-known/ai-plugin.json
-status: down
-code: 403
-responseTime: 49
-lastUpdated: 2026-10-05T01:29:32.443Z
+status: up
+code: 200
+responseTime: 1086
+lastUpdated: 2026-10-05T12:32:51.837Z
 startTime: 2023-06-23T23:46:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
