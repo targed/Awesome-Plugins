@@ -1,7 +1,7 @@
 url: https://www.broadway.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 55
-lastUpdated: 2026-10-17T06:11:01.344Z
+status: down
+code: 404
+responseTime: 14
+lastUpdated: 2026-10-17T10:38:25.345Z
 startTime: 2023-06-20T20:09:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
