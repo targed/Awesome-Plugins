@@ -1,7 +1,7 @@
 url: https://ticktick.com/.well-known/ai-plugin.json
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2026-11-16T02:56:01.867Z
+status: down
+code: 404
+responseTime: 21
+lastUpdated: 2026-11-16T21:08:51.206Z
 startTime: 2023-06-23T23:47:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
